@@ -43,10 +43,5 @@
     "id": "inspiration",
     "name": "想法收集",
     "status": "stable"
-  },
-  {
-    "id": "plan",
-    "name": "规划视图",
-    "status": "stable"
   }
 ]

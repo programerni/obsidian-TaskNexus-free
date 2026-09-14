@@ -8,6 +8,8 @@
 
 </div>
 
+> 📖 **[查看 Pro 版完整功能介绍 →](PRO.md)**
+
 ---
 
 ## 🇨🇳 TaskNexus Free (中文)

@@ -46,7 +46,7 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 #### ⏱️ 任务计时
 精确掌握每个任务花了多少时间
 
-![任务计时面板](https://tasknexus.itwize.top/screenshots/timer-panel.png)
+![任务计时面板](screenshots/任务计时.png)
 
 - **番茄钟式追踪** — 为每个任务启动专注计时
 - **效率分析** — 了解时间在不同任务类型上的分配
@@ -224,7 +224,7 @@ Data-driven decision-making dashboard
 #### ⏱️ Task Timer
 Precisely track time spent on each task
 
-![Timer Panel](https://tasknexus.itwize.top/screenshots/timer-panel.png)
+![Timer Panel](screenshots/任务计时.png)
 
 - **Pomodoro-style Tracking** — Start focused timer for each task
 - **Efficiency Analysis** — Understand time allocation across task types

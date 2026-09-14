@@ -141,6 +141,8 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 
 👉 **获取 Pro 版**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
 
+📖 **Pro 版详细介绍**: [PRO.md](PRO.md)
+
 ---
 
 ### 📦 安装方式
@@ -349,6 +351,8 @@ TaskNexus comes in two editions. The **Free** version covers personal task manag
 ### 🚀 Upgrade to Pro
 
 **TaskNexus Pro** (¥29 one-time purchase) unlocks 20+ advanced features:
+
+📖 **Pro Version Details**: [PRO.md](PRO.md)
 
 - **👥 Assignee Scheduling** — Parse `role/指派/name` tags to view team workload distribution
 - **⚡ Individual Capacity** — Set different work capacity limits per team member

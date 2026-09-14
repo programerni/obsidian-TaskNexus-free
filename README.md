@@ -67,10 +67,6 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 - **变更记录** 跨会话保留
 - **撤销/重做** — Ctrl+Z / Ctrl+Shift+Z
 
-#### 🎛️ 仪表盘与灵感
-- **首页仪表盘** — 任务全景一览
-- **灵感收集** — 捕捉稍纵即逝的想法
-
 #### ⏱️ 任务计时
 - **番茄钟式时间追踪** — 为每个任务记录专注时长
 - **效率分析** — 了解时间分配
@@ -99,7 +95,6 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 | 批量操作 | ✅ | ✅ |
 | 备份/恢复/撤销 | ✅ | ✅ |
 | 变更记录 | ✅ | ✅ |
-| 仪表盘与灵感收集 | ✅ | ✅ |
 | 任务看板 | ✅ | ✅ |
 | 任务计时 | ✅ | ✅ |
 | 快捷键 | ✅ | ✅ |
@@ -295,10 +290,6 @@ TaskNexus transforms your Obsidian vault into a visual project management worksp
 - **Change log** preserved across sessions
 - **Undo/Redo** — Ctrl+Z / Ctrl+Shift+Z
 
-#### 🎛️ Dashboard & Inspiration
-- **Dashboard** — overview of your task landscape at a glance
-- **Inspiration Board** — capture ideas before they slip away
-
 #### ⏱️ Task Timer
 - **Pomodoro-style time tracking** — record focus time for each task
 - **Efficiency analysis** — understand time distribution
@@ -327,7 +318,6 @@ TaskNexus comes in two editions. The **Free** version covers personal task manag
 | Batch Operations | ✅ | ✅ |
 | Backup / Restore / Undo | ✅ | ✅ |
 | Change Log | ✅ | ✅ |
-| Dashboard & Inspiration Board | ✅ | ✅ |
 | Task Board | ✅ | ✅ |
 | Task Timer | ✅ | ✅ |
 | Quick Add & Keyboard Shortcuts | ✅ | ✅ |

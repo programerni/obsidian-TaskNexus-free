@@ -35,11 +35,6 @@
     "status": "stable"
   },
   {
-    "id": "dashboard",
-    "name": "首页仪表盘",
-    "status": "stable"
-  },
-  {
     "id": "inspiration",
     "name": "想法收集",
     "status": "stable"

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "core",
+    "name": "核心甘特图",
+    "status": "stable"
+  },
+  {
+    "id": "quickadd",
+    "name": "快速添加",
+    "status": "stable"
+  },
+  {
+    "id": "table-cols",
+    "name": "表格列展示配置",
+    "status": "stable"
+  },
+  {
+    "id": "local-sched",
+    "name": "局部排产",
+    "status": "stable"
+  },
+  {
+    "id": "changes",
+    "name": "变更记录",
+    "status": "stable"
+  },
+  {
+    "id": "activation",
+    "name": "激活管理",
+    "status": "beta"
+  },
+  {
+    "id": "shortcuts",
+    "name": "快捷键",
+    "status": "stable"
+  },
+  {
+    "id": "dashboard",
+    "name": "首页仪表盘",
+    "status": "stable"
+  },
+  {
+    "id": "inspiration",
+    "name": "想法收集",
+    "status": "stable"
+  },
+  {
+    "id": "plan",
+    "name": "规划视图",
+    "status": "stable"
+  }
+]

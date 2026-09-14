@@ -1,0 +1,9 @@
+{
+  "id": "tasknexus-free",
+  "name": "TaskNexus Free",
+  "version": "1.0.9",
+  "minAppVersion": "1.5.7",
+  "description": "TaskNexus Free v1.0.9（核心甘特图/快速添加/表格列展示配置/局部排产/变更记录/激活管理/快捷键/首页仪表盘/想法收集/规划视图）",
+  "author": "Simon Ni",
+  "isDesktopOnly": false
+}

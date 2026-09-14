@@ -2,235 +2,15 @@
 
 # TaskNexus Free
 
-**[English](#-tasknexus-free-english)** | **[中文](#-tasknexus-free-中文)**
-
-> 🎯 A powerful Gantt chart and task management plugin for [Obsidian](https://obsidian.md/)
-
-</div>
-
----
-
-## 🇬🇧 TaskNexus Free (English)
-
-TaskNexus transforms your Obsidian vault into a visual project management workspace. View all your tasks on an interactive Gantt chart, reschedule with one click, and manage your workflow with drag-and-drop ease.
-
-### ✨ Features
-
-#### 📊 Interactive Gantt Chart
-- **Monthly/Daily dual-row timeline** with 5 zoom levels (biweekly → yearly)
-- **Today marker** — blue vertical line with auto-scroll
-- **Color-coded task bars** by status (todo, done, in-progress)
-- **Progress percentage** displayed inside each bar (MS Project style)
-- **Parent-child dependency lines** (tree-style connections)
-
-#### ✏️ Inline Editing
-- **Drag to reschedule** — move task bars left/right to change dates
-- **Drag to resize** — pull the right edge to adjust duration
-- **Double-click** to edit name, dates, priority, and more
-- **Checkbox completion** — auto-writes ✅ completion date
-
-#### 🔍 Smart Filtering
-- **Keyword search** with real-time filtering
-- **Dropdown filters** — priority, status, assignee, proposer
-- **Toggle switches** — show/hide completed tasks, unlimited tasks
-
-#### 📁 Task Hierarchy
-- **Indented sub-tasks** via Tab/4-space indentation
-- **Cross-file wiki-link parents** — `[[parent task]]` establishes hierarchy
-- **Fold/expand** all levels from the toolbar
-
-#### 🚀 One-Click Reschedule
-- **Auto reschedule** — moves overdue tasks, distributes overloads, respects dependencies
-- **Local reschedule** — only reschedule selected tasks
-
-#### 📦 Batch Operations
-- **Multi-select** — click, Shift+click range, Ctrl+A all
-- **Batch set** priority, dates, duration, progress
-- **Batch delete** with undo support
-
-#### 💾 Data Safety
-- **One-click backup/restore** to `.task-gantt/data_backups/`
-- **Change log** preserved across sessions
-- **Undo/Redo** — Ctrl+Z / Ctrl+Shift+Z
-
-#### 🎛️ Dashboard & Inspiration
-- **Dashboard** — overview of your task landscape at a glance
-- **Inspiration Board** — capture ideas before they slip away
-
-#### ⌨️ Keyboard Shortcuts
-- `Ctrl+Shift+T` — Quick add task
-- Full keyboard navigation support
-
----
-
-### 🆚 Free vs Pro
-
-TaskNexus comes in two editions. The **Free** version covers personal task management with no limits on core features. **Pro** unlocks advanced capabilities for power users and teams.
-
-| Feature | Free | Pro |
-|---------|:----:|:---:|
-| Gantt Chart (5 zoom levels) | ✅ | ✅ |
-| Drag & Drop Rescheduling | ✅ | ✅ |
-| One-Click Auto Reschedule | ✅ | ✅ |
-| Local Reschedule | ✅ | ✅ |
-| Inline Editing (all fields) | ✅ | ✅ |
-| Search & Filter | ✅ | ✅ |
-| Task Hierarchy (indent + wiki-link) | ✅ | ✅ |
-| Batch Operations | ✅ | ✅ |
-| Backup / Restore / Undo | ✅ | ✅ |
-| Change Log | ✅ | ✅ |
-| Dashboard & Inspiration Board | ✅ | ✅ |
-| Quick Add & Keyboard Shortcuts | ✅ | ✅ |
-| **Assignee-based Scheduling** | ❌ | ✅ |
-| **Individual Capacity Config** | ❌ | ✅ |
-| **In-Progress Status `[/]`** | ❌ | ✅ |
-| **Today View** | ❌ | ✅ |
-| **Statistics Panel** | ❌ | ✅ |
-| **Task Timer** | ❌ | ✅ |
-| **Deliverable Management** | ❌ | ✅ |
-| **Dependency Chain Scheduling** | ❌ | ✅ |
-| **Export to Image/PDF** | ❌ | ✅ |
-| **AI Task Decomposition** | ❌ | ✅ |
-| **TickTick/Dida365 Sync** | ❌ | ✅ |
-| **Retrospective Summary** | ❌ | ✅ |
-| **Planning View** | ❌ | ✅ |
-| **Project View** | ❌ | ✅ |
-| **Kanban Board** | ❌ | ✅ |
-| **Today Panel** | ❌ | ✅ |
-| Task Limit | ≤100 | ∞ |
-| File Scan Limit | ≤200 | ∞ |
-
----
-
-### 🚀 Upgrade to Pro
-
-**TaskNexus Pro** (¥29 one-time purchase) unlocks 20+ advanced features:
-
-- **👥 Assignee Scheduling** — Parse `role/指派/name` tags to view team workload distribution
-- **⚡ Individual Capacity** — Set different work capacity limits per team member
-- **🔄 In-Progress Status** — Differentiate between not-started and in-progress tasks with `[/]`
-- **📅 Today View** — "What should I do today?" — a focused daily task list
-- **📊 Statistics Panel** — Completion rate, delay rate, workload distribution charts
-- **⏱️ Task Timer** — Pomodoro-style time tracking for personal productivity
-- **📎 Deliverable Management** — Link files and wiki pages to tasks
-- **🔗 Dependency Chains** — FS dependency lines with chain rescheduling
-- **📤 Export** — Share tasks as images or PDFs
-- **🤖 AI Task Decomposition** — Break complex tasks into subtasks automatically
-- **🔄 TickTick/Dida365 Sync** — Bidirectional sync with TickTick/Dida365
-- **📝 Retrospective Summary** — AI-powered project retrospectives
-- **🧠 Planning View** — Mind-map and tree-style task planning with multi-layout + collapsible panels
-- **📋 Project View** — Multi-project overview and management
-- **📌 Kanban Board** — Visual task status management
-- **📅 Today Panel** — Focused daily task dashboard
-
-👉 **Get Pro**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
-
----
-
-### 📦 Installation
-
-#### Option 1: Manual Install (Recommended)
-
-1. Download the latest release from [Releases](../../releases)
-2. Extract the zip file
-3. Copy the three files into your Obsidian vault's plugin directory:
-   ```
-   YourVault/.obsidian/plugins/tasknexus-free/
-   ├── main.js
-   ├── manifest.json
-   └── styles.css
-   ```
-4. Open Obsidian → Settings → Community Plugins
-5. Enable **TaskNexus Free**
-
-#### Option 2: BRAT Plugin
-
-1. Install the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin
-2. Open BRAT settings → Add Beta plugin
-3. Enter: `programerni/obsidian-tasknexus-free`
-4. Enable the plugin
-
----
-
-### 🖼️ Screenshots
-
-| Gantt Chart View | Dashboard |
-|:---:|:---:|
-| ![Gantt Chart](screenshots/_img2.png) | ![Dashboard](screenshots/_img3.png) |
-
-| Quick Add | Inspiration Board |
-|:---:|:---:|
-| ![Quick Add](screenshots/img4.png) | ![Inspiration](screenshots/img6.png) |
-
----
-
-### 📋 Requirements
-
-- Obsidian v1.5.7 or higher
-- Desktop or Mobile (Free version supports both)
-
----
-
-### 🛠️ Building from Source
-
-```bash
-git clone https://github.com/programerni/obsidian-tasknexus-free.git
-cd obsidian-tasknexus-free
-npm install
-node scripts/build-editions.mjs --edition free
-```
-
-The built files will be in `dist/free/<version>/`.
-
----
-
-### 📝 Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for full release history.
-
----
-
-### 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-### 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-### 📞 Contact & Support
-
-- **Website**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
-- **WeChat**: Scan the QR code below for activation issues and support
-
-  <img src="screenshots/wechat-qr.png" width="120" alt="WeChat QR Code">
-
-- **Xiaohongshu (小红书)**: [https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31](https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31)
-- **GitHub Issues**: [Report bugs or request features](../../issues)
-
----
-
-<p align="center">
-  <b>TaskNexus Free</b> — Visual task management for Obsidian<br>
-  Made with ❤️ by <a href="https://github.com/programerni">Simon Ni</a>
-</p>
-
----
----
-
-<div align="center">
-
-# TaskNexus Free (中文)
-
-**[English](#-tasknexus-free-english)** | **[中文](#-tasknexus-free-中文)**
+**[中文](#-tasknexus-free-中文)** | **[English](#-tasknexus-free-english)**
 
 > 🎯 一款强大的 Obsidian 甘特图与任务管理插件
 
 </div>
+
+---
+
+## 🇨🇳 TaskNexus Free (中文)
 
 TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在交互式甘特图上查看所有任务，一键重新排期，拖拽管理工作流。
 
@@ -242,6 +22,8 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 - **彩色任务条** 按状态区分（待办、已完成、进行中）
 - **进度百分比** 显示在任务条内部（MS Project 风格）
 - **父子依赖连线**（树形结构连接）
+
+![甘特图视图](screenshots/2-甘特图视图2.png)
 
 #### ✏️ 行内编辑
 - **拖拽排期** — 左右移动任务条改变日期
@@ -259,14 +41,24 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 - **跨文件 wiki-link 父任务** — `[[父任务名]]` 建立层级关系
 - **折叠/展开** 工具栏一键操作
 
+![任务详情](screenshots/任务详情页面 20260827202814_905.png)
+
 #### 🚀 一键排期
 - **自动排期** — 移动逾期任务、分散过载、尊重依赖关系
 - **局部排期** — 仅排期选中的任务
+
+![按截止时间排期](screenshots/2-按截止时间看板加进入面板.png)
 
 #### 📦 批量操作
 - **多选** — 点击、Shift+点击范围、Ctrl+A 全选
 - **批量设置** 优先级、日期、工期、进度
 - **批量删除** 支持撤销
+
+#### 📌 任务看板
+- **可视化看板** — 按状态分列查看任务进度
+- **拖拽切换状态** — 直观管理任务流转
+
+![任务看板](screenshots/1-任务看板.png)
 
 #### 💾 数据安全
 - **一键备份/恢复** 到 `.task-gantt/data_backups/`
@@ -276,6 +68,12 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 #### 🎛️ 仪表盘与灵感
 - **首页仪表盘** — 任务全景一览
 - **灵感收集** — 捕捉稍纵即逝的想法
+
+#### ⏱️ 任务计时
+- **番茄钟式时间追踪** — 为每个任务记录专注时长
+- **效率分析** — 了解时间分配
+
+![任务计时](screenshots/任务计时.png)
 
 #### ⌨️ 快捷键
 - `Ctrl+Shift+T` — 快速添加任务
@@ -300,13 +98,14 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 | 备份/恢复/撤销 | ✅ | ✅ |
 | 变更记录 | ✅ | ✅ |
 | 仪表盘与灵感收集 | ✅ | ✅ |
+| 任务看板 | ✅ | ✅ |
+| 任务计时 | ✅ | ✅ |
 | 快捷键 | ✅ | ✅ |
 | **按人排产** | ❌ | ✅ |
 | **个人容量配置** | ❌ | ✅ |
 | **进行中状态 `[/]`** | ❌ | ✅ |
 | **今日视图** | ❌ | ✅ |
 | **统计面板** | ❌ | ✅ |
-| **任务计时** | ❌ | ✅ |
 | **交付物管理** | ❌ | ✅ |
 | **链式依赖排期** | ❌ | ✅ |
 | **导出图片/PDF** | ❌ | ✅ |
@@ -315,7 +114,6 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 | **复盘总结** | ❌ | ✅ |
 | **规划视图** | ❌ | ✅ |
 | **项目视图** | ❌ | ✅ |
-| **任务看板** | ❌ | ✅ |
 | **今日面板** | ❌ | ✅ |
 | 任务数限制 | ≤100 | 无限制 |
 | 文件扫描限制 | ≤200 | 无限制 |
@@ -331,7 +129,6 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 - **🔄 进行中状态** — 用 `[/]` 区分未开始和进行中的任务
 - **📅 今日视图** — "今天该做什么？"——聚焦每日任务清单
 - **📊 统计面板** — 完成率、延期率、工作量分布图表
-- **⏱️ 任务计时** — 番茄钟式时间追踪，提升个人效率
 - **📎 交付物管理** — 将文件和 wiki 页面关联到任务
 - **🔗 链式依赖** — FS 依赖线与链式排期
 - **📤 导出** — 将任务分享为图片或 PDF
@@ -340,7 +137,6 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 - **📝 复盘总结** — AI 驱动的项目复盘报告
 - **🧠 规划视图** — 思维导图/树形方式规划父子任务，多布局+折叠面板
 - **📋 项目视图** — 多项目总览与管理
-- **📌 任务看板** — 可视化任务状态管理
 - **📅 今日面板** — 聚焦每日任务仪表盘
 
 👉 **获取 Pro 版**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
@@ -369,18 +165,6 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 2. 打开 BRAT 设置 → 添加 Beta 插件
 3. 输入：`programerni/obsidian-tasknexus-free`
 4. 启用插件
-
----
-
-### 🖼️ 截图
-
-| 甘特图视图 | 仪表盘 |
-|:---:|:---:|
-| ![甘特图](screenshots/_img2.png) | ![仪表盘](screenshots/_img3.png) |
-
-| 快速添加 | 灵感收集 |
-|:---:|:---:|
-| ![快速添加](screenshots/img4.png) | ![灵感](screenshots/img6.png) |
 
 ---
 
@@ -436,5 +220,231 @@ MIT 协议 — 详见 [LICENSE](LICENSE)。
 
 <p align="center">
   <b>TaskNexus Free</b> — Obsidian 可视化任务管理插件<br>
+  Made with ❤️ by <a href="https://github.com/programerni">Simon Ni</a>
+</p>
+
+---
+---
+
+<div align="center">
+
+# TaskNexus Free (English)
+
+**[中文](#-tasknexus-free-中文)** | **[English](#-tasknexus-free-english)**
+
+> 🎯 A powerful Gantt chart and task management plugin for [Obsidian](https://obsidian.md/)
+
+</div>
+
+---
+
+TaskNexus transforms your Obsidian vault into a visual project management workspace. View all your tasks on an interactive Gantt chart, reschedule with one click, and manage your workflow with drag-and-drop ease.
+
+### ✨ Features
+
+#### 📊 Interactive Gantt Chart
+- **Monthly/Daily dual-row timeline** with 5 zoom levels (biweekly → yearly)
+- **Today marker** — blue vertical line with auto-scroll
+- **Color-coded task bars** by status (todo, done, in-progress)
+- **Progress percentage** displayed inside each bar (MS Project style)
+- **Parent-child dependency lines** (tree-style connections)
+
+![Gantt Chart View](screenshots/2-甘特图视图2.png)
+
+#### ✏️ Inline Editing
+- **Drag to reschedule** — move task bars left/right to change dates
+- **Drag to resize** — pull the right edge to adjust duration
+- **Double-click** to edit name, dates, priority, and more
+- **Checkbox completion** — auto-writes ✅ completion date
+
+#### 🔍 Smart Filtering
+- **Keyword search** with real-time filtering
+- **Dropdown filters** — priority, status, assignee, proposer
+- **Toggle switches** — show/hide completed tasks, unlimited tasks
+
+#### 📁 Task Hierarchy
+- **Indented sub-tasks** via Tab/4-space indentation
+- **Cross-file wiki-link parents** — `[[parent task]]` establishes hierarchy
+- **Fold/expand** all levels from the toolbar
+
+![Task Details](screenshots/任务详情页面 20260827202814_905.png)
+
+#### 🚀 One-Click Reschedule
+- **Auto reschedule** — moves overdue tasks, distributes overloads, respects dependencies
+- **Local reschedule** — only reschedule selected tasks
+
+![Deadline Reschedule](screenshots/2-按截止时间看板加进入面板.png)
+
+#### 📦 Batch Operations
+- **Multi-select** — click, Shift+click range, Ctrl+A all
+- **Batch set** priority, dates, duration, progress
+- **Batch delete** with undo support
+
+#### 📌 Task Board
+- **Visual board** — view tasks by status columns
+- **Drag to change status** — intuitive task workflow management
+
+![Task Board](screenshots/1-任务看板.png)
+
+#### 💾 Data Safety
+- **One-click backup/restore** to `.task-gantt/data_backups/`
+- **Change log** preserved across sessions
+- **Undo/Redo** — Ctrl+Z / Ctrl+Shift+Z
+
+#### 🎛️ Dashboard & Inspiration
+- **Dashboard** — overview of your task landscape at a glance
+- **Inspiration Board** — capture ideas before they slip away
+
+#### ⏱️ Task Timer
+- **Pomodoro-style time tracking** — record focus time for each task
+- **Efficiency analysis** — understand time distribution
+
+![Task Timer](screenshots/任务计时.png)
+
+#### ⌨️ Keyboard Shortcuts
+- `Ctrl+Shift+T` — Quick add task
+- Full keyboard navigation support
+
+---
+
+### 🆚 Free vs Pro
+
+TaskNexus comes in two editions. The **Free** version covers personal task management with no limits on core features. **Pro** unlocks advanced capabilities for power users and teams.
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Gantt Chart (5 zoom levels) | ✅ | ✅ |
+| Drag & Drop Rescheduling | ✅ | ✅ |
+| One-Click Auto Reschedule | ✅ | ✅ |
+| Local Reschedule | ✅ | ✅ |
+| Inline Editing (all fields) | ✅ | ✅ |
+| Search & Filter | ✅ | ✅ |
+| Task Hierarchy (indent + wiki-link) | ✅ | ✅ |
+| Batch Operations | ✅ | ✅ |
+| Backup / Restore / Undo | ✅ | ✅ |
+| Change Log | ✅ | ✅ |
+| Dashboard & Inspiration Board | ✅ | ✅ |
+| Task Board | ✅ | ✅ |
+| Task Timer | ✅ | ✅ |
+| Quick Add & Keyboard Shortcuts | ✅ | ✅ |
+| **Assignee-based Scheduling** | ❌ | ✅ |
+| **Individual Capacity Config** | ❌ | ✅ |
+| **In-Progress Status `[/]`** | ❌ | ✅ |
+| **Today View** | ❌ | ✅ |
+| **Statistics Panel** | ❌ | ✅ |
+| **Deliverable Management** | ❌ | ✅ |
+| **Dependency Chain Scheduling** | ❌ | ✅ |
+| **Export to Image/PDF** | ❌ | ✅ |
+| **AI Task Decomposition** | ❌ | ✅ |
+| **TickTick/Dida365 Sync** | ❌ | ✅ |
+| **Retrospective Summary** | ❌ | ✅ |
+| **Planning View** | ❌ | ✅ |
+| **Project View** | ❌ | ✅ |
+| **Today Panel** | ❌ | ✅ |
+| Task Limit | ≤100 | ∞ |
+| File Scan Limit | ≤200 | ∞ |
+
+---
+
+### 🚀 Upgrade to Pro
+
+**TaskNexus Pro** (¥29 one-time purchase) unlocks 20+ advanced features:
+
+- **👥 Assignee Scheduling** — Parse `role/指派/name` tags to view team workload distribution
+- **⚡ Individual Capacity** — Set different work capacity limits per team member
+- **🔄 In-Progress Status** — Differentiate between not-started and in-progress tasks with `[/]`
+- **📅 Today View** — "What should I do today?" — a focused daily task list
+- **📊 Statistics Panel** — Completion rate, delay rate, workload distribution charts
+- **📎 Deliverable Management** — Link files and wiki pages to tasks
+- **🔗 Dependency Chains** — FS dependency lines with chain rescheduling
+- **📤 Export** — Share tasks as images or PDFs
+- **🤖 AI Task Decomposition** — Break complex tasks into subtasks automatically
+- **🔄 TickTick/Dida365 Sync** — Bidirectional sync with TickTick/Dida365
+- **📝 Retrospective Summary** — AI-powered project retrospectives
+- **🧠 Planning View** — Mind-map and tree-style task planning with multi-layout + collapsible panels
+- **📋 Project View** — Multi-project overview and management
+- **📅 Today Panel** — Focused daily task dashboard
+
+👉 **Get Pro**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
+
+---
+
+### 📦 Installation
+
+#### Option 1: Manual Install (Recommended)
+
+1. Download the latest release from [Releases](../../releases)
+2. Extract the zip file
+3. Copy the three files into your Obsidian vault's plugin directory:
+   ```
+   YourVault/.obsidian/plugins/tasknexus-free/
+   ├── main.js
+   ├── manifest.json
+   └── styles.css
+   ```
+4. Open Obsidian → Settings → Community Plugins
+5. Enable **TaskNexus Free**
+
+#### Option 2: BRAT Plugin
+
+1. Install the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin
+2. Open BRAT settings → Add Beta plugin
+3. Enter: `programerni/obsidian-tasknexus-free`
+4. Enable the plugin
+
+---
+
+### 📋 Requirements
+
+- Obsidian v1.5.7 or higher
+- Desktop or Mobile (Free version supports both)
+
+---
+
+### 🛠️ Building from Source
+
+```bash
+git clone https://github.com/programerni/obsidian-tasknexus-free.git
+cd obsidian-tasknexus-free
+npm install
+node scripts/build-editions.mjs --edition free
+```
+
+The built files will be in `dist/free/<version>/`.
+
+---
+
+### 📝 Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for full release history.
+
+---
+
+### 📄 License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+### 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+### 📞 Contact & Support
+
+- **Website**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
+- **WeChat**: Scan the QR code below for activation issues and support
+
+  <img src="screenshots/wechat-qr.png" width="120" alt="WeChat QR Code">
+
+- **Xiaohongshu (小红书)**: [https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31](https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31)
+- **GitHub Issues**: [Report bugs or request features](../../issues)
+
+---
+
+<p align="center">
+  <b>TaskNexus Free</b> — Visual task management for Obsidian<br>
   Made with ❤️ by <a href="https://github.com/programerni">Simon Ni</a>
 </p>

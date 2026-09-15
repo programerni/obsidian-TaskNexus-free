@@ -56,22 +56,10 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 - **批量设置** 优先级、日期、工期、进度
 - **批量删除** 支持撤销
 
-#### 📌 任务看板
-- **可视化看板** — 按状态分列查看任务进度
-- **拖拽切换状态** — 直观管理任务流转
-
-![任务看板](screenshots/1-任务看板.png)
-
 #### 💾 数据安全
 - **一键备份/恢复** 到 `.task-gantt/data_backups/`
 - **变更记录** 跨会话保留
 - **撤销/重做** — Ctrl+Z / Ctrl+Shift+Z
-
-#### ⏱️ 任务计时
-- **番茄钟式时间追踪** — 为每个任务记录专注时长
-- **效率分析** — 了解时间分配
-
-![任务计时](screenshots/任务计时.png)
 
 #### ⌨️ 快捷键
 - `Ctrl+Shift+T` — 快速添加任务
@@ -95,8 +83,8 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 | 批量操作 | ✅ | ✅ |
 | 备份/恢复/撤销 | ✅ | ✅ |
 | 变更记录 | ✅ | ✅ |
-| 任务看板 | ✅ | ✅ |
-| 任务计时 | ✅ | ✅ |
+| 任务看板 | ❌ | ✅ |
+| 任务计时 | ❌ | ✅ |
 | 快捷键 | ✅ | ✅ |
 | **按人排产** | ❌ | ✅ |
 | **个人容量配置** | ❌ | ✅ |
@@ -279,22 +267,10 @@ TaskNexus transforms your Obsidian vault into a visual project management worksp
 - **Batch set** priority, dates, duration, progress
 - **Batch delete** with undo support
 
-#### 📌 Task Board
-- **Visual board** — view tasks by status columns
-- **Drag to change status** — intuitive task workflow management
-
-![Task Board](screenshots/1-任务看板.png)
-
 #### 💾 Data Safety
 - **One-click backup/restore** to `.task-gantt/data_backups/`
 - **Change log** preserved across sessions
 - **Undo/Redo** — Ctrl+Z / Ctrl+Shift+Z
-
-#### ⏱️ Task Timer
-- **Pomodoro-style time tracking** — record focus time for each task
-- **Efficiency analysis** — understand time distribution
-
-![Task Timer](screenshots/任务计时.png)
 
 #### ⌨️ Keyboard Shortcuts
 - `Ctrl+Shift+T` — Quick add task
@@ -318,8 +294,8 @@ TaskNexus comes in two editions. The **Free** version covers personal task manag
 | Batch Operations | ✅ | ✅ |
 | Backup / Restore / Undo | ✅ | ✅ |
 | Change Log | ✅ | ✅ |
-| Task Board | ✅ | ✅ |
-| Task Timer | ✅ | ✅ |
+| Task Board | ❌ | ✅ |
+| Task Timer | ❌ | ✅ |
 | Quick Add & Keyboard Shortcuts | ✅ | ✅ |
 | **Assignee-based Scheduling** | ❌ | ✅ |
 | **Individual Capacity Config** | ❌ | ✅ |

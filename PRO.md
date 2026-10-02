@@ -141,7 +141,7 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 
 ### 💰 定价
 
-**Pro 版：¥29 一次性买断**（无订阅费，终身免费升级）
+**Pro 版：一次性买断**（无订阅费，终身免费升级；具体价格与优惠以小红书主页置顶笔记为准）
 
 👉 **购买 Pro 版**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
 
@@ -319,7 +319,7 @@ Multi-dimensional task planning with mind-map display
 
 ### 💰 Pricing
 
-**Pro: ¥29 one-time purchase** (no subscription, lifetime free upgrades)
+**Pro: one-time purchase** (no subscription, lifetime free upgrades; see [pricing](https://tasknexus.itwize.top/en/pricing.html) for the current price)
 
 👉 **Get Pro**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
 

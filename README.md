@@ -107,7 +107,7 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 
 ### 🚀 升级 Pro 版
 
-**TaskNexus Pro**（¥29 买断制）解锁 20+ 项高级功能：
+**TaskNexus Pro**（买断制，具体价格与优惠以小红书主页置顶笔记为准）解锁 20+ 项高级功能：
 
 - **👥 按人排产** — 解析 `role/指派/姓名` 标签，查看团队工作量分布
 - **⚡ 个人容量** — 为每个团队成员设置不同的工作容量上限
@@ -318,7 +318,7 @@ TaskNexus comes in two editions. The **Free** version covers personal task manag
 
 ### 🚀 Upgrade to Pro
 
-**TaskNexus Pro** (¥29 one-time purchase) unlocks 20+ advanced features:
+**TaskNexus Pro** (one-time purchase — see [pricing](https://tasknexus.itwize.top/en/pricing.html) for the current price) unlocks 20+ advanced features:
 
 📖 **Pro Version Details**: [PRO.md](PRO.md)
 

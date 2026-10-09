@@ -4,6 +4,10 @@
 
 **[📥 一键开箱案例库 OB-Case-TaskNexusPro.zip（23 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/OB-Case-TaskNexusPro.zip)** ｜ **[📥 Pro 插件 TaskNexusPro-1.0.45.zip（1.4 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.45.zip)**
 
+**🔑 激活页面**：这是激活页面——**输入个人邮箱，一键提交激活申请**，管理员会**自动发送激活码到个人邮箱**。
+
+![激活页面](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/activation-page.png)
+
 </div>
 
 ---

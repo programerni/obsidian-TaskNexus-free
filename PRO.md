@@ -1,5 +1,15 @@
 <div align="center">
 
+### 📥 一键下载（点击即存）
+
+**[📥 一键开箱案例库 OB-Case-TaskNexusPro.zip（23 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/OB-Case-TaskNexusPro.zip)** ｜ **[📥 Pro 插件 TaskNexusPro-1.0.45.zip（1.4 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.45.zip)**
+
+</div>
+
+---
+
+<div align="center">
+
 # TaskNexus Pro
 
 **[中文](#-tasknexus-pro-中文)** | **[English](#-tasknexus-pro-english)**

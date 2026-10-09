@@ -33,7 +33,7 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 #### 🗂️ 项目视图
 从单任务维度升级到项目维度，掌握全局进度
 
-![项目视图](https://tasknexus.itwize.top/screenshots/project-view.png)
+![项目视图](screenshots/pro/项目视图.png)
 
 - **多项目概览** — 一个界面管理所有项目，查看各项目进度与状态
 - **项目统计** — 每个项目的完成率、任务数、延迟率一目了然
@@ -51,7 +51,7 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 #### 📊 统计面板
 用数据驱动决策的全局看板
 
-![统计面板](https://tasknexus.itwize.top/screenshots/stats-dashboard.png)
+![统计面板](screenshots/pro/统计面板.png)
 
 - **完成率趋势** — 可视化每周/每月完成率变化
 - **延迟分析** — 识别哪些任务经常延期，找到瓶颈
@@ -87,7 +87,7 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 #### 📋 任务看板
 拖拽式看板，任务状态一目了然
 
-![任务看板](https://tasknexus.itwize.top/screenshots/task-kanban.png)
+![任务看板](screenshots/pro/任务看板.png)
 
 - **状态分列** — 待办、进行中、已完成分列展示
 - **拖拽流转** — 直接拖拽任务卡片切换状态
@@ -96,12 +96,16 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 #### 👥 调度排产
 从个人任务管理升级为团队协作排产
 
+![调度排产](screenshots/pro/调度排产.png)
+
 - **人员排产** — 按 `role/指派/name` 标签解析团队成员
 - **产能管理** — 为每个成员设置不同的工作容量
 - **负载均衡** — 自动检测过载成员，建议任务分配
 
 #### 🤖 AI 智能拆解
 让 AI 帮你分解复杂任务
+
+![AI 智能拆解](screenshots/pro/AI智能拆解.png)
 
 - **需求拆解** — 输入复杂需求，AI 自动拆分为可执行子任务
 - **会议导入** — 从会议纪要中提取待办事项
@@ -110,6 +114,8 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 #### 🔄 TickTick/Dida365 同步
 打通外部任务管理工具
 
+![TickTick/Dida365 同步](screenshots/pro/滴答同步.png)
+
 - **双向同步** — Obsidian 与滴答清单数据实时同步
 - **多端协作** — 手机端记录的任务自动同步到 Obsidian
 - **批量操作** — 批量导入/导出任务
@@ -117,9 +123,23 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 #### 🧠 规划视图
 多维度任务规划与脑图展示
 
+![规划视图](screenshots/pro/规划视图.png)
+
 - **脑图模式** — 任务层级以思维导图形式展示
 - **树形规划** — 从上到下梳理任务依赖与结构
 - **多布局** — 支持多种展示布局，灵活切换
+
+### 🖼️ 更多界面截图
+
+| **🏠 工作台首页** | **🧭 任务视图 · 甘特图** |
+| :-: | :-: |
+| ![工作台首页](screenshots/pro/首页.png) | ![任务视图甘特图](screenshots/pro/任务视图-甘特图.png) |
+| **📋 项目视图 · 看板** | **👥 人员视图 · 甘特图** |
+| ![项目视图看板](screenshots/pro/项目视图-看板.png) | ![人员视图甘特图](screenshots/pro/人员视图-甘特图.png) |
+| **💡 想法收集** | **📝 会议纪要** |
+| ![想法收集](screenshots/pro/想法收集.png) | ![会议纪要](screenshots/pro/会议纪要.png) |
+| **🔁 复盘总结** | **⏱️ 进展与工时** |
+| ![复盘总结](screenshots/pro/复盘总结.png) | ![进展与工时](screenshots/pro/进展-工时.png) |
 
 ---
 
@@ -211,7 +231,7 @@ TaskNexus Pro extends the free version's Gantt chart and task management with **
 #### 🗂️ Project View
 Upgrade from individual tasks to project-level management
 
-![Project View](https://tasknexus.itwize.top/screenshots/project-view.png)
+![Project View](screenshots/pro/项目视图.png)
 
 - **Multi-project Overview** — Manage all projects in one interface
 - **Project Statistics** — Completion rate, task count, delay rate at a glance
@@ -229,7 +249,7 @@ Focus on what matters most today
 #### 📊 Statistics Dashboard
 Data-driven decision-making dashboard
 
-![Statistics Dashboard](https://tasknexus.itwize.top/screenshots/stats-dashboard.png)
+![Statistics Dashboard](screenshots/pro/统计面板.png)
 
 - **Completion Trends** — Visualize weekly/monthly completion rate changes
 - **Delay Analysis** — Identify frequently delayed tasks and bottlenecks
@@ -265,7 +285,7 @@ Never miss important events
 #### 📋 Task Kanban
 Drag-and-drop kanban for visual task management
 
-![Task Kanban](https://tasknexus.itwize.top/screenshots/task-kanban.png)
+![Task Kanban](screenshots/pro/任务看板.png)
 
 - **Status Columns** — To-do, In Progress, Done displayed in columns
 - **Drag-and-Drop** — Move task cards between status columns
@@ -274,12 +294,16 @@ Drag-and-drop kanban for visual task management
 #### 👥 Team Scheduling
 From personal task management to team collaboration
 
+![Team Scheduling](screenshots/pro/调度排产.png)
+
 - **Assignee Parsing** — Parse `role/assign/name` tags for team view
 - **Individual Capacity** — Set different work capacity per member
 - **Load Balancing** — Auto-detect overloaded members, suggest redistribution
 
 #### 🤖 AI Task Decomposition
 Let AI break down complex tasks
+
+![AI Task Decomposition](screenshots/pro/AI智能拆解.png)
 
 - **Requirement Decomposition** — Input complex requirements, AI splits into subtasks
 - **Meeting Import** — Extract action items from meeting notes
@@ -288,6 +312,8 @@ Let AI break down complex tasks
 #### 🔄 TickTick/Dida365 Sync
 Bridge external task management tools
 
+![TickTick/Dida365 Sync](screenshots/pro/滴答同步.png)
+
 - **Bidirectional Sync** — Real-time sync between Obsidian and TickTick/Dida365
 - **Multi-device** — Tasks recorded on mobile auto-sync to Obsidian
 - **Batch Operations** — Bulk import/export tasks
@@ -295,9 +321,23 @@ Bridge external task management tools
 #### 🧠 Planning View
 Multi-dimensional task planning with mind-map display
 
+![Planning View](screenshots/pro/规划视图.png)
+
 - **Mind-map Mode** — Task hierarchy displayed as mind map
 - **Tree Planning** — Top-down dependency and structure analysis
 - **Multiple Layouts** — Flexible layout switching
+
+### 🖼️ More Screenshots
+
+| **🏠 Workbench Home** | **🧭 Task View · Gantt** |
+| :-: | :-: |
+| ![Workbench Home](screenshots/pro/首页.png) | ![Task View Gantt](screenshots/pro/任务视图-甘特图.png) |
+| **📋 Project View · Kanban** | **👥 People View · Gantt** |
+| ![Project Kanban](screenshots/pro/项目视图-看板.png) | ![People Gantt](screenshots/pro/人员视图-甘特图.png) |
+| **💡 Ideas Inbox** | **📝 Meeting Notes** |
+| ![Ideas](screenshots/pro/想法收集.png) | ![Meeting Notes](screenshots/pro/会议纪要.png) |
+| **🔁 Retrospective** | **⏱️ Progress & Hours** |
+| ![Retrospective](screenshots/pro/复盘总结.png) | ![Progress Hours](screenshots/pro/进展-工时.png) |
 
 ---
 

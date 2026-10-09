@@ -12,6 +12,14 @@
 
 ---
 
+### 📥 一键下载（点击即存）
+
+**[📥 一键开箱案例库 OB-Case-TaskNexusPro.zip（23 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/OB-Case-TaskNexusPro.zip)** ｜ **[📥 Pro 插件 TaskNexusPro-1.0.45.zip（1.4 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.45.zip)**
+
+> 🔑 激活方式：下载后打开**激活页面**，输入个人邮箱一键提交激活申请，管理员会自动发送激活码到个人邮箱（详见 [PRO.md 顶部说明与截图](PRO.md)）。
+
+---
+
 ## 🇨🇳 TaskNexus Free (中文)
 
 TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在交互式甘特图上查看所有任务，一键重新排期，拖拽管理工作流。

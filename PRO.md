@@ -38,6 +38,15 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 - **多项目概览** — 一个界面管理所有项目，查看各项目进度与状态
 - **项目统计** — 每个项目的完成率、任务数、延迟率一目了然
 - **人员负载** — 查看团队成员的任务分配情况，避免过载
+#### 👥 人员视图
+按人看任务：谁在做什么、负载是否均衡
+
+![人员视图](https://tasknexus.itwize.top/screenshots/people-overview.png)
+
+- **人员总览** — 按成员汇总任务分布与进度
+- **多视图切换** — 与任务视图同款的表格 / 甘特 / 看板 / 日历视图
+- **人员维度统计** — 交付物看板、进展与工时按人员维度查看
+
 
 #### 📅 今日面板
 聚焦当天最重要的事，一眼看清今天该做什么
@@ -128,6 +137,69 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 - **脑图模式** — 任务层级以思维导图形式展示
 - **树形规划** — 从上到下梳理任务依赖与结构
 - **多布局** — 支持多种展示布局，灵活切换
+#### 📦 交付物管理
+任务成果统一管理，支持拖拽上传
+
+![交付物看板](https://tasknexus.itwize.top/screenshots/delivery-board.png)
+
+- **集中管理** — 任务详情交付物 Tab 集中管理所有成果文件
+- **拖拽上传** — 支持从其他应用直接拖拽上传
+- **自动关联** — 交付物与所属任务自动关联，随任务流转
+
+#### 🤖 AI 作业
+专为 AI Agent 设计的任务看板，人机协作的自动化开发流水线
+
+![AI 作业看板](https://tasknexus.itwize.top/screenshots/ai-task-board.png)
+
+- **自动流转** — AI 自动领取、执行、交付任务
+- **状态看板** — 看板流转 待作业 → 作业中 → 待审核 → 已部署 → 已关闭
+- **全程可视** — 交付与部署进度全程可视化
+
+#### 📝 AI 会议纪要
+会议记录交给 AI，自动整理成结构化纪要
+
+![AI 会议纪要](https://tasknexus.itwize.top/screenshots/meeting-minutes.png)
+
+- **协作菜单直达** — AI 协作菜单内直接使用，与任务体系同库管理
+- **结构化提炼** — 自动提炼要点、结论与待办事项
+- **沉淀为笔记** — 纪要沉淀为库内笔记，可继续关联任务
+
+#### 🔁 AI 复盘总结
+让 AI 帮你写复盘，计划与总结形成闭环
+
+![AI 复盘总结](https://tasknexus.itwize.top/screenshots/ai-review-summary.png)
+
+- **一键生成** — AI 协作菜单内一键生成复盘总结
+- **计划联动** — 与首页每日计划、每日复盘联动
+- **可回溯** — 复盘结果沉淀到库内笔记，随时回溯
+
+#### 🎯 目标（OKR）
+目标与关键结果集中管理，团队往哪儿打一目了然
+
+- **O / KR 统一管理** — 一级「🎯 目标」Tab，目标（O）与关键结果（KR）集中管理
+- **数值型进度** — KR 支持当前值 / 目标值，按年 / 季 / 月周期推进
+- **负责人与复盘** — 每个目标都有负责人，按周期复盘进度与风险
+- **首页卡片** — 首页仪表盘可添加目标总览、风险 KR、周期复盘卡片
+
+#### 🏠 首页仪表盘
+打开插件即是首页，待办、进展、统计一屏掌握
+
+![首页仪表盘](https://tasknexus.itwize.top/screenshots/dashboard-home.jpg)
+
+- **自由布局** — 卡片自由拖拽换位，支持一行多卡片与跨行布局
+- **卡片自定义** — 每个卡片可设置显示/隐藏、显示条数、自定义图标与图标大小
+- **背景图** — 顶部日期欢迎区支持自定义背景图
+- **想法转任务** — 想法速记记下的灵感可一键转成任务
+
+#### 🖼️ 项目图标与背景图
+每个项目一张专属门面，列表里一眼认出
+
+![项目图标与背景图](https://tasknexus.itwize.top/screenshots/project-icon-bg.png)
+
+- **项目图标** — 编辑项目时为项目挑选独立图标
+- **专属背景图** — 为项目设置专属背景图
+- **全局展示** — 项目面板、项目视图标题、任务行、统计面板头部同步展示
+
 
 ### 🖼️ 更多界面截图
 
@@ -169,6 +241,14 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 | **🤖 AI 智能拆解** | — | ✅ |
 | **🔄 TickTick/Dida365 同步** | — | ✅ |
 | **🧠 规划视图** | — | ✅ |
+| **👥 人员视图** | — | ✅ |
+| **📦 交付物管理** | — | ✅ |
+| **🤖 AI 作业** | — | ✅ |
+| **📝 AI 会议纪要** | — | ✅ |
+| **🔁 AI 复盘总结** | — | ✅ |
+| **🎯 目标（OKR）** | — | ✅ |
+| **🏠 首页仪表盘** | — | ✅ |
+| **🖼️ 项目图标与背景图** | — | ✅ |
 | **📤 导出** | — | ✅ |
 
 ---
@@ -236,6 +316,15 @@ Upgrade from individual tasks to project-level management
 - **Multi-project Overview** — Manage all projects in one interface
 - **Project Statistics** — Completion rate, task count, delay rate at a glance
 - **Team Workload** — View task distribution across team members
+#### 👥 People View
+See tasks by person: who is doing what and whether the workload is balanced
+
+![People View](https://tasknexus.itwize.top/screenshots/people-overview.png)
+
+- **People Overview** — Task distribution and progress summarized per member
+- **Multiple Views** — Table / Gantt / Kanban / Calendar, same as the task view
+- **Per-person Stats** — Deliverables board, progress and work hours by person
+
 
 #### 📅 Today Panel
 Focus on what matters most today
@@ -326,6 +415,69 @@ Multi-dimensional task planning with mind-map display
 - **Mind-map Mode** — Task hierarchy displayed as mind map
 - **Tree Planning** — Top-down dependency and structure analysis
 - **Multiple Layouts** — Flexible layout switching
+#### 📦 Deliverable Management
+Keep every task outcome in one place with drag-and-drop upload
+
+![Deliverables Board](https://tasknexus.itwize.top/screenshots/delivery-board.png)
+
+- **Centralized Tab** — All outcome files managed in the task detail Deliverables tab
+- **Drag & Drop Upload** — Drag files straight from other apps
+- **Auto-Linked** — Deliverables automatically linked to their task
+
+#### 🤖 AI Task Board
+A task board built for AI agents — a human-in-the-loop automation pipeline
+
+![AI Task Board](https://tasknexus.itwize.top/screenshots/ai-task-board.png)
+
+- **Auto Claim & Deliver** — AI agents claim, execute and deliver tasks automatically
+- **Status Pipeline** — Board flow: Pending → Working → Review → Deployed → Closed
+- **Full Visibility** — Delivery and deployment progress visualized end to end
+
+#### 📝 AI Meeting Minutes
+Hand meeting notes to AI and get structured minutes automatically
+
+![AI Meeting Minutes](https://tasknexus.itwize.top/screenshots/meeting-minutes.png)
+
+- **From AI Menu** — Used directly inside the AI collaboration menu, stored in the same vault
+- **Structured Summary** — Key points, conclusions and action items extracted automatically
+- **Saved as Notes** — Minutes become vault notes that can be linked to tasks
+
+#### 🔁 AI Retrospective Summary
+Let AI write your retrospective — plan, execute, review in one loop
+
+![AI Review Summary](https://tasknexus.itwize.top/screenshots/ai-review-summary.png)
+
+- **One-click Generation** — Generate a retrospective summary from the AI collaboration menu
+- **Linked to Daily Plan** — Works together with the home dashboard's daily plan and review
+- **Archived in Vault** — Retrospectives are saved as notes for later reference
+
+#### 🎯 Goals (OKR)
+Manage objectives and key results in one place — everyone knows where the team is heading
+
+- **O / KR Management** — A dedicated Goals tab for objectives and key results
+- **Numeric Progress** — KRs track current / target values on a yearly / quarterly / monthly cycle
+- **Owners & Review** — Every goal has an owner, with periodic progress and risk review
+- **Dashboard Cards** — Add goal overview, at-risk KR and review cards to the home dashboard
+
+#### 🏠 Home Dashboard
+The plugin opens as a dashboard — todos, progress and stats on one screen
+
+![Home Dashboard](https://tasknexus.itwize.top/screenshots/dashboard-home.jpg)
+
+- **Free Layout** — Drag cards anywhere, multiple cards per row and cross-row layouts
+- **Card Settings** — Per-card show/hide, max items, custom icon and icon size
+- **Custom Banner** — Custom background image for the top date / welcome area
+- **Ideas to Tasks** — Turn quick-captured ideas into tasks with one click
+
+#### 🖼️ Project Icon & Background
+Give every project its own storefront — instantly recognizable in the list
+
+![Project Icon & Background](https://tasknexus.itwize.top/screenshots/project-icon-bg.png)
+
+- **Project Icon** — Pick a dedicated icon when editing a project
+- **Dedicated Background** — Set a custom background image per project
+- **Everywhere** — Shown in the project panel, project view header, task rows and stats header
+
 
 ### 🖼️ More Screenshots
 
@@ -367,6 +519,14 @@ Multi-dimensional task planning with mind-map display
 | **🤖 AI Decomposition** | — | ✅ |
 | **🔄 TickTick/Dida365 Sync** | — | ✅ |
 | **🧠 Planning View** | — | ✅ |
+| **👥 People View** | — | ✅ |
+| **📦 Deliverable Management** | — | ✅ |
+| **🤖 AI Task Board** | — | ✅ |
+| **📝 AI Meeting Minutes** | — | ✅ |
+| **🔁 AI Retrospective** | — | ✅ |
+| **🎯 Goals (OKR)** | — | ✅ |
+| **🏠 Home Dashboard** | — | ✅ |
+| **🖼️ Project Icon & Background** | — | ✅ |
 | **📤 Export** | — | ✅ |
 
 ---

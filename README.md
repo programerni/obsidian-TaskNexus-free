@@ -133,7 +133,7 @@ Pro 版全部功能随安装包提供，激活码只负责解除额度限制。�
 <tr>
 <td align="center"><b>📕 小红书</b><br>主页 → 置顶笔记 → 个人售卖<br>按年 9.9 / 一次性 68 元<br><a href="https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31">前往下单</a></td>
 <td align="center"><b>微信收款码</b><br><img src="screenshots/pay-wechat-qr.png" width="180" alt="微信收款码"><br>微信「扫一扫」</td>
-<td align="center"><b>支付宝收款码</b><br><img src="screenshots/pay-alipay-qr.png" width="180" alt="支付宝收款码"><br>支付宝「扫一扫」</td>
+<td align="center"><b>支付宝收款码</b><br><img src="screenshots/pay-alipay-qr.png?v=2" width="180" alt="支付宝收款码"><br>支付宝「扫一扫」</td>
 </tr>
 </table>
 
@@ -338,7 +338,7 @@ Every Pro module ships in the same installer; the licence key only removes quota
 <tr>
 <td align="center"><b>📕 Xiaohongshu</b><br>Profile → pinned note → in-app sale<br>$19.9 one-time<br><a href="https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31">Open</a></td>
 <td align="center"><b>WeChat Pay QR</b><br><img src="screenshots/pay-wechat-qr.png" width="180" alt="WeChat Pay QR code"><br>Scan with WeChat</td>
-<td align="center"><b>Alipay QR</b><br><img src="screenshots/pay-alipay-qr.png" width="180" alt="Alipay QR code"><br>Scan with Alipay</td>
+<td align="center"><b>Alipay QR</b><br><img src="screenshots/pay-alipay-qr.png?v=2" width="180" alt="Alipay QR code"><br>Scan with Alipay</td>
 </tr>
 </table>
 

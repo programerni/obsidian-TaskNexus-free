@@ -1,14 +1,26 @@
 <div align="center">
 
-# TaskNexus Free
+# Task Nexus — Obsidian 任务排产插件（Pro）
 
-**[中文](#-tasknexus-free-中文)** | **[English](#-tasknexus-free-english)**
+**[中文](#-中文)** | **[English](#task-nexus--obsidian-gantt--task-scheduling-plugin-pro)**
 
-> 🎯 一款强大的 Obsidian 甘特图与任务管理插件
+> 🎯 只有一个 Pro 版：免费安装、免费额度内长期可用，激活码解除全部额度限制
 
 </div>
 
-> 📖 **[查看 Pro 版完整功能介绍 →](PRO.md)**
+> 📖 **[查看完整功能介绍 →](PRO.md)**
+
+---
+
+### 🚦 30 秒了解产品形态
+
+| | 说明 |
+|---|---|
+| **① 免费安装** | Obsidian 社区插件市场（或从 GitHub Releases、下方一键下载）安装，无需付费 |
+| **② 免费额度** | 项目 / 目标 / KR / 人员 / 自定义 Agent 有数量上限；AI 与同步类功能按月度额度试用；规划视图、链式依赖有试用次数 |
+| **③ 激活解锁** | 购买激活码后在插件设置中填入，数量、月度与终身额度全部解除，功能不再受限 |
+
+> ⚠️ **不再提供独立的基础版**：之前「免费版 + Pro 版」两个版本的叙述已废弃，安装包装的就是完整 Pro 版，只是未激活时按免费额度使用。
 
 ---
 
@@ -20,7 +32,7 @@
 
 ---
 
-## 🇨🇳 TaskNexus Free (中文)
+## 🇨🇳 中文
 
 TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在交互式甘特图上查看所有任务，一键重新排期，拖拽管理工作流。
 
@@ -75,66 +87,45 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 
 ---
 
-### 🆚 免费版 vs Pro 版
+### 🆚 免费额度 vs 激活解锁
 
-TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功能，无核心功能限制。**Pro 版**解锁高级能力，适合进阶用户和团队使用。
+只有一个 Pro 版，同一条产品线的两种状态：未激活按免费额度使用，激活后全部解除。
 
-| 功能 | 免费版 | Pro 版 |
+| 能力 / 额度 | 免费额度（未激活） | 激活后 |
 |------|:------:|:------:|
-| 甘特图（5 种缩放） | ✅ | ✅ |
-| 拖拽排期 | ✅ | ✅ |
-| 一键自动排期 | ✅ | ✅ |
-| 局部排期 | ✅ | ✅ |
-| 行内编辑 | ✅ | ✅ |
-| 搜索与筛选 | ✅ | ✅ |
-| 任务层级（缩进 + wiki-link） | ✅ | ✅ |
-| 批量操作 | ✅ | ✅ |
-| 备份/恢复/撤销 | ✅ | ✅ |
-| 变更记录 | ✅ | ✅ |
-| 任务看板 | ❌ | ✅ |
-| 任务计时 | ❌ | ✅ |
-| 快捷键 | ✅ | ✅ |
-| **按人排产** | ❌ | ✅ |
-| **个人容量配置** | ❌ | ✅ |
-| **进行中状态 `[/]`** | ❌ | ✅ |
-| **今日视图** | ❌ | ✅ |
-| **统计面板** | ❌ | ✅ |
-| **交付物管理** | ❌ | ✅ |
-| **链式依赖排期** | ❌ | ✅ |
-| **导出图片/PDF** | ❌ | ✅ |
-| **AI 任务拆解** | ❌ | ✅ |
-| **滴答清单同步** | ❌ | ✅ |
-| **复盘总结** | ❌ | ✅ |
-| **规划视图** | ❌ | ✅ |
-| **项目视图** | ❌ | ✅ |
-| **今日面板** | ❌ | ✅ |
-| 任务数限制 | ≤100 | 无限制 |
-| 文件扫描限制 | ≤200 | 无限制 |
+| 安装与更新 | 免费 | 免费（后续版本更新不收费） |
+| 甘特图 / 看板 / 日历等全部视图 | ✅ | ✅ |
+| 项目数 | ≤ 3 | 无限制 |
+| 目标（OKR）数 | ≤ 3 | 无限制 |
+| KR 数 | ≤ 9 | 无限制 |
+| 人员数 | ≤ 3 | 无限制 |
+| 自定义 Agent 数 | ≤ 2 | 无限制 |
+| AI 任务拆解 | 5 次 / 月 | 无限制 |
+| AI 作业续杯 | 5 次 / 月 | 无限制 |
+| AI 作业累计 | 50 次 | 无限制 |
+| AI 会议纪要 / 微信整理 | 3 次 / 月 | 无限制 |
+| AI 复盘报表 | 4 次 / 月 | 无限制 |
+| 滴答清单 / 飞书 / Notion 同步 | 各 50 条 / 月 | 无限制 |
+| 规划视图 / 链式依赖 | 各 30 次试用 | 无限制 |
+| 价格 | 免费安装、免费使用 | 按年 9.9 或一次 68 元（以小红书实际价格为准） |
+
+> 额度为程序内置默认值，可能随版本调整；准确数值以插件内「激活 / 额度中心」与官网配置为准。额度用尽后仅对应功能暂停，历史数据不受影响。
 
 ---
 
-### 🚀 升级 Pro 版
+### 🔑 获取激活码与激活
 
-**TaskNexus Pro**（买断制，具体价格与优惠以小红书主页置顶笔记为准）解锁 20+ 项高级功能：
+Pro 版全部功能随安装包提供，激活码只负责解除额度限制。购买方式：小红书主页 → 置顶笔记 → 个人售卖直接购买（按年 9.9 或一次性 68 元，具体以小红书实际价格为准）。
 
-- **👥 按人排产** — 解析 `role/指派/姓名` 标签，查看团队工作量分布
-- **⚡ 个人容量** — 为每个团队成员设置不同的工作容量上限
-- **🔄 进行中状态** — 用 `[/]` 区分未开始和进行中的任务
-- **📅 今日视图** — "今天该做什么？"——聚焦每日任务清单
-- **📊 统计面板** — 完成率、延期率、工作量分布图表
-- **📎 交付物管理** — 将文件和 wiki 页面关联到任务
-- **🔗 链式依赖** — FS 依赖线与链式排期
-- **📤 导出** — 将任务分享为图片或 PDF
-- **🤖 AI 任务拆解** — 自动将复杂任务拆解为子任务
-- **🔄 滴答清单同步** — 与滴答清单/Dida365 双向同步
-- **📝 复盘总结** — AI 驱动的项目复盘报告
-- **🧠 规划视图** — 思维导图/树形方式规划父子任务，多布局+折叠面板
-- **📋 项目视图** — 多项目总览与管理
-- **📅 今日面板** — 聚焦每日任务仪表盘
+激活步骤：
 
-👉 **获取 Pro 版**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
+1. 打开 Obsidian → 设置 → TaskNexus → 「激活」
+2. 在「🔑 激活码」输入框填入激活码
+3. 点「🔓 立即激活」，额度限制即时解除
 
-📖 **Pro 版详细介绍**: [PRO.md](PRO.md)
+- **🌐 官网与激活说明**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
+- **📕 小红书（购买渠道）**: [Task Nexus 小红书主页](https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31)
+- **📖 完整功能介绍**: [PRO.md](PRO.md)
 
 ---
 
@@ -152,7 +143,7 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
    └── styles.css
    ```
 4. 打开 Obsidian → 设置 → 第三方插件
-5. 启用 **TaskNexus Free**
+5. 启用 **Task Nexus**（Pro 版，未激活时按免费额度使用）
 
 #### 方式二：BRAT 插件
 
@@ -166,7 +157,7 @@ TaskNexus 分为两个版本。**免费版**涵盖个人任务管理的核心功
 ### 📋 系统要求
 
 - Obsidian v1.5.7 或更高版本
-- 桌面端或移动端（免费版均支持）
+- 桌面端或移动端（Pro 版均支持）
 
 ---
 
@@ -214,7 +205,7 @@ MIT 协议 — 详见 [LICENSE](LICENSE)。
 ---
 
 <p align="center">
-  <b>TaskNexus Free</b> — Obsidian 可视化任务管理插件<br>
+  <b>Task Nexus Pro</b> — Obsidian 可视化任务排产插件<br>
   Made with ❤️ by <a href="https://github.com/programerni">Simon Ni</a>
 </p>
 
@@ -223,17 +214,29 @@ MIT 协议 — 详见 [LICENSE](LICENSE)。
 
 <div align="center">
 
-# TaskNexus Free (English)
+# Task Nexus — Obsidian Gantt & Task Scheduling Plugin (Pro)
 
-**[中文](#-tasknexus-free-中文)** | **[English](#-tasknexus-free-english)**
+**[中文](#-中文)** | **[English](#task-nexus--obsidian-gantt--task-scheduling-plugin-pro)**
 
-> 🎯 A powerful Gantt chart and task management plugin for [Obsidian](https://obsidian.md/)
+> 🎯 One Pro edition: install free, use it within the free quota, and a licence key removes every quota limit
 
 </div>
 
 ---
 
-TaskNexus transforms your Obsidian vault into a visual project management workspace. View all your tasks on an interactive Gantt chart, reschedule with one click, and manage your workflow with drag-and-drop ease.
+### 🚦 The product in 30 seconds
+
+| | What it means |
+|---|---|
+| **① Install free** | Available in the Obsidian community plugin list (or from GitHub Releases and the direct download above) — no payment needed |
+| **② Free quota** | Quantity caps for projects / goals / key results / people / custom agents; monthly quotas for AI and sync features; trial runs for the planning view and chained dependencies |
+| **③ Licence unlocks** | Buy a licence key, paste it into the plugin settings, and every quantity, monthly and lifetime quota is removed |
+
+> ⚠️ **There is no separate basic edition any more.** The old “Free + Pro” split is retired: the installer is the full Pro edition and simply runs within the free quota until activated.
+
+---
+
+Task Nexus transforms your Obsidian vault into a visual project management workspace. View all your tasks on an interactive Gantt chart, reschedule with one click, and manage your workflow with drag-and-drop ease.
 
 ### ✨ Features
 
@@ -286,66 +289,42 @@ TaskNexus transforms your Obsidian vault into a visual project management worksp
 
 ---
 
-### 🆚 Free vs Pro
+### 🆚 Free quota vs licence
 
-TaskNexus comes in two editions. The **Free** version covers personal task management with no limits on core features. **Pro** unlocks advanced capabilities for power users and teams.
+One Pro edition, two states of the same product line: the free quota applies before activation, and a licence removes every limit.
 
-| Feature | Free | Pro |
-|---------|:----:|:---:|
-| Gantt Chart (5 zoom levels) | ✅ | ✅ |
-| Drag & Drop Rescheduling | ✅ | ✅ |
-| One-Click Auto Reschedule | ✅ | ✅ |
-| Local Reschedule | ✅ | ✅ |
-| Inline Editing (all fields) | ✅ | ✅ |
-| Search & Filter | ✅ | ✅ |
-| Task Hierarchy (indent + wiki-link) | ✅ | ✅ |
-| Batch Operations | ✅ | ✅ |
-| Backup / Restore / Undo | ✅ | ✅ |
-| Change Log | ✅ | ✅ |
-| Task Board | ❌ | ✅ |
-| Task Timer | ❌ | ✅ |
-| Quick Add & Keyboard Shortcuts | ✅ | ✅ |
-| **Assignee-based Scheduling** | ❌ | ✅ |
-| **Individual Capacity Config** | ❌ | ✅ |
-| **In-Progress Status `[/]`** | ❌ | ✅ |
-| **Today View** | ❌ | ✅ |
-| **Statistics Panel** | ❌ | ✅ |
-| **Deliverable Management** | ❌ | ✅ |
-| **Dependency Chain Scheduling** | ❌ | ✅ |
-| **Export to Image/PDF** | ❌ | ✅ |
-| **AI Task Decomposition** | ❌ | ✅ |
-| **TickTick/Dida365 Sync** | ❌ | ✅ |
-| **Retrospective Summary** | ❌ | ✅ |
-| **Planning View** | ❌ | ✅ |
-| **Project View** | ❌ | ✅ |
-| **Today Panel** | ❌ | ✅ |
-| Task Limit | ≤100 | ∞ |
-| File Scan Limit | ≤200 | ∞ |
+| Capability / quota | Free quota (no licence) | After activation |
+|------|:------:|:------:|
+| Install & updates | Free | Free (future updates included) |
+| Gantt / kanban / calendar and every other view | ✅ | ✅ |
+| Projects | ≤ 3 | Unlimited |
+| Goals (OKR) | ≤ 3 | Unlimited |
+| Key results | ≤ 9 | Unlimited |
+| People | ≤ 3 | Unlimited |
+| Custom agents | ≤ 2 | Unlimited |
+| AI task decomposition | 5 / month | Unlimited |
+| AI job refills | 5 / month | Unlimited |
+| AI jobs, lifetime | 50 runs | Unlimited |
+| AI meeting notes / chat digest | 3 / month | Unlimited |
+| AI review report | 4 / month | Unlimited |
+| TickTick / Feishu / Notion sync | 50 items each / month | Unlimited |
+| Planning view / chained dependencies | 30 trial uses each | Unlimited |
+| Price | Free to install and use | $19.9 USD one-time (see [pricing](https://tasknexus.itwize.top/en/pricing.html)) |
+
+> These are the built-in defaults and may change between releases; the plugin's activation / quota centre and the website config are the source of truth. When a quota runs out only that feature pauses — your existing data is untouched.
 
 ---
 
-### 🚀 Upgrade to Pro
+### 🔑 Licence and activation
 
-**TaskNexus Pro** (one-time purchase — see [pricing](https://tasknexus.itwize.top/en/pricing.html) for the current price) unlocks 20+ advanced features:
+Every Pro module ships in the same installer; the licence key only removes quotas. Buy a licence via the [pricing page](https://tasknexus.itwize.top/en/pricing.html) ($19.9 USD one-time) and you receive the key by email.
 
-📖 **Pro Version Details**: [PRO.md](PRO.md)
+1. Open Obsidian → Settings → Task Nexus → Activation
+2. Paste the key into the licence field
+3. Click “🔓 Activate now” — every quota is lifted immediately
 
-- **👥 Assignee Scheduling** — Parse `role/指派/name` tags to view team workload distribution
-- **⚡ Individual Capacity** — Set different work capacity limits per team member
-- **🔄 In-Progress Status** — Differentiate between not-started and in-progress tasks with `[/]`
-- **📅 Today View** — "What should I do today?" — a focused daily task list
-- **📊 Statistics Panel** — Completion rate, delay rate, workload distribution charts
-- **📎 Deliverable Management** — Link files and wiki pages to tasks
-- **🔗 Dependency Chains** — FS dependency lines with chain rescheduling
-- **📤 Export** — Share tasks as images or PDFs
-- **🤖 AI Task Decomposition** — Break complex tasks into subtasks automatically
-- **🔄 TickTick/Dida365 Sync** — Bidirectional sync with TickTick/Dida365
-- **📝 Retrospective Summary** — AI-powered project retrospectives
-- **🧠 Planning View** — Mind-map and tree-style task planning with multi-layout + collapsible panels
-- **📋 Project View** — Multi-project overview and management
-- **📅 Today Panel** — Focused daily task dashboard
-
-👉 **Get Pro**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
+- **🌐 Website**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
+- **📖 Full feature guide**: [PRO.md](PRO.md)
 
 ---
 
@@ -363,7 +342,7 @@ TaskNexus comes in two editions. The **Free** version covers personal task manag
    └── styles.css
    ```
 4. Open Obsidian → Settings → Community Plugins
-5. Enable **TaskNexus Free**
+5. Enable **Task Nexus** (the Pro edition, running within the free quota until activated)
 
 #### Option 2: BRAT Plugin
 
@@ -377,7 +356,7 @@ TaskNexus comes in two editions. The **Free** version covers personal task manag
 ### 📋 Requirements
 
 - Obsidian v1.5.7 or higher
-- Desktop or Mobile (Free version supports both)
+- Desktop or Mobile (the Pro edition supports both)
 
 ---
 
@@ -425,6 +404,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ---
 
 <p align="center">
-  <b>TaskNexus Free</b> — Visual task management for Obsidian<br>
+  <b>Task Nexus Pro</b> — Visual task scheduling for Obsidian<br>
   Made with ❤️ by <a href="https://github.com/programerni">Simon Ni</a>
 </p>

@@ -14,9 +14,9 @@
 
 <div align="center">
 
-# TaskNexus Pro
+# Task Nexus Pro
 
-**[中文](#-tasknexus-pro-中文)** | **[English](#-tasknexus-pro-english)**
+**[中文](#-中文)** | **[English](#-task-nexus-pro-english)**
 
 > 🚀 在 Obsidian 中实现企业级项目排产与团队协作
 
@@ -24,9 +24,18 @@
 
 ---
 
-## 🇨🇳 TaskNexus Pro (中文)
+## 🇨🇳 中文
 
-TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ 高级功能**，覆盖项目视图、人员排产、AI 智能拆解、统计分析、TickTick/Dida365 双向同步等企业级能力——让你在 Obsidian 中完成从个人任务到团队协作的全链路管理。
+Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免费安装后按**免费额度**长期使用；购买激活码填入插件设置后，数量、月度与终身额度全部解除。
+
+- **免费额度**：项目 ≤ 3 ／ 目标（OKR） ≤ 3 ／ KR ≤ 9 ／ 人员 ≤ 3 ／ 自定义 Agent ≤ 2
+- **月度额度**（每月 1 日重置）：AI 任务拆解 5 ／ AI 作业续杯 5 ／ AI 会议纪要 3 ／ AI 复盘报表 4 ／ 滴答·飞书·Notion 同步各 50
+- **试用与终身额度**：规划视图 30 次 ／ 链式依赖 30 次 ／ AI 作业累计 50 次
+- **激活后**：以上额度全部解除，功能不再受限；后续版本更新免费
+
+> 额度为程序内置默认值，以插件内「激活 / 额度中心」与官网配置为准。额度用尽仅对应功能暂停，历史数据不受影响。
+
+下方为 Pro 版全部核心功能的说明。
 
 ### ✨ Pro 版核心功能
 
@@ -215,49 +224,35 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 
 ---
 
-### 🆚 免费版 vs Pro 版
+### 🆚 免费额度 vs 激活解锁
 
-| 功能 | 免费版 | Pro 版 |
+| 能力 / 额度 | 免费额度（未激活） | 激活后 |
 |------|:------:|:------:|
-| 甘特图（5 种缩放） | ✅ | ✅ |
-| 拖拽排期 | ✅ | ✅ |
-| 一键自动排期 | ✅ | ✅ |
-| 局部排期 | ✅ | ✅ |
-| 行内编辑 | ✅ | ✅ |
-| 搜索与筛选 | ✅ | ✅ |
-| 任务层级（缩进 + wiki-link） | ✅ | ✅ |
-| 批量操作 | ✅ | ✅ |
-| 备份/恢复/撤销 | ✅ | ✅ |
-| 变更记录 | ✅ | ✅ |
-| 仪表盘与灵感收集 | ✅ | ✅ |
-| **🗂️ 项目视图** | — | ✅ |
-| **📅 今日面板** | — | ✅ |
-| **📊 统计面板** | — | ✅ |
-| **⏱️ 任务计时** | — | ✅ |
-| **📝 变更记录增强** | — | ✅ |
-| **🔔 通知提醒** | — | ✅ |
-| **📋 任务看板** | — | ✅ |
-| **👥 调度排产** | — | ✅ |
-| **🤖 AI 智能拆解** | — | ✅ |
-| **🔄 TickTick/Dida365 同步** | — | ✅ |
-| **🧠 规划视图** | — | ✅ |
-| **👥 人员视图** | — | ✅ |
-| **📦 交付物管理** | — | ✅ |
-| **🤖 AI 作业** | — | ✅ |
-| **📝 AI 会议纪要** | — | ✅ |
-| **🔁 AI 复盘总结** | — | ✅ |
-| **🎯 目标（OKR）** | — | ✅ |
-| **🏠 首页仪表盘** | — | ✅ |
-| **🖼️ 项目图标与背景图** | — | ✅ |
-| **📤 导出** | — | ✅ |
+| 安装与更新 | 免费 | 免费（后续版本更新不收费） |
+| 甘特图 / 看板 / 日历等全部视图 | ✅ | ✅ |
+| 项目数 | ≤ 3 | 无限制 |
+| 目标（OKR）数 | ≤ 3 | 无限制 |
+| KR 数 | ≤ 9 | 无限制 |
+| 人员数 | ≤ 3 | 无限制 |
+| 自定义 Agent 数 | ≤ 2 | 无限制 |
+| AI 任务拆解 | 5 次 / 月 | 无限制 |
+| AI 作业续杯 | 5 次 / 月 | 无限制 |
+| AI 作业累计 | 50 次 | 无限制 |
+| AI 会议纪要 / 微信整理 | 3 次 / 月 | 无限制 |
+| AI 复盘报表 | 4 次 / 月 | 无限制 |
+| 滴答清单 / 飞书 / Notion 同步 | 各 50 条 / 月 | 无限制 |
+| 规划视图 / 链式依赖 | 各 30 次试用 | 无限制 |
+| 价格 | 免费安装、免费使用 | 按年 9.9 或一次 68 元（以小红书实际价格为准） |
 
 ---
 
-### 💰 定价
+### 💰 定价与激活
 
-**Pro 版：一次性买断**（无订阅费，终身免费升级；具体价格与优惠以小红书主页置顶笔记为准）
+**免费安装，额度内免费使用**；激活码按年订阅 9.9 或一次性 68 元（以小红书主页置顶笔记的实际价格为准），激活后额度全部解除、后续更新免费。
 
-👉 **购买 Pro 版**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
+👉 **购买与激活说明**: [https://tasknexus.itwize.top/pricing.html](https://tasknexus.itwize.top/pricing.html)
+
+激活步骤：Obsidian → 设置 → TaskNexus → 「激活」→ 填入「🔑 激活码」→ 点「🔓 立即激活」。
 
 ---
 
@@ -265,7 +260,7 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 
 #### 方式一：手动安装（推荐）
 
-1. 下载免费版最新 Release → [Releases](../../releases)
+1. 下载最新 Release（Pro 版安装包）→ [Releases](../../releases)
 2. 解压 zip 文件
 3. 将三个文件复制到 Obsidian 库的插件目录：
    ```
@@ -275,7 +270,7 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
    └── styles.css
    ```
 4. 打开 Obsidian → 设置 → 社区插件
-5. 启用 **TaskNexus Free**
+5. 启用 **Task Nexus**（Pro 版，未激活时按免费额度使用）
 
 #### 方式二：BRAT 插件
 
@@ -302,9 +297,16 @@ TaskNexus Pro 在免费版的甘特图与任务管理基础上，解锁 **20+ �
 
 ---
 
-## 🇺🇸 TaskNexus Pro (English)
+## 🇺🇸 Task Nexus Pro (English)
 
-TaskNexus Pro extends the free version's Gantt chart and task management with **20+ advanced features** — project view, team scheduling, AI task decomposition, statistics dashboard, TickTick/Dida365 sync, and more — enabling full project management from individual tasks to team collaboration, all within Obsidian.
+Task Nexus now ships as a single **Pro edition**: every module is included in the installer, and it runs within the **free quota** for as long as you like. A licence key pasted into the plugin settings removes every quantity, monthly and lifetime quota.
+
+- **Free quota**: projects ≤ 3 · goals (OKR) ≤ 3 · key results ≤ 9 · people ≤ 3 · custom agents ≤ 2
+- **Monthly quotas** (reset on the 1st): AI task decomposition 5 · AI job refills 5 · AI meeting notes 3 · AI review report 4 · TickTick / Feishu / Notion sync 50 items each
+- **Trial and lifetime**: planning view 30 uses · chained dependencies 30 uses · AI jobs 50 runs lifetime
+- **After activation**: every quota removed, no feature limits, future updates included
+
+> The numbers above are the built-in defaults; the plugin's activation / quota centre and the website config are the source of truth. When a quota runs out only that feature pauses — your existing data is untouched.
 
 ### ✨ Pro Features
 
@@ -493,49 +495,33 @@ Give every project its own storefront — instantly recognizable in the list
 
 ---
 
-### 🆚 Free vs Pro
+### 🆚 Free quota vs licence
 
-| Feature | Free | Pro |
-|---------|:----:|:---:|
-| Gantt Chart (5 zoom levels) | ✅ | ✅ |
-| Drag Scheduling | ✅ | ✅ |
-| Auto Schedule | ✅ | ✅ |
-| Local Scheduling | ✅ | ✅ |
-| Inline Editing | ✅ | ✅ |
-| Search & Filter | ✅ | ✅ |
-| Task Hierarchy (indent + wiki-link) | ✅ | ✅ |
-| Batch Operations | ✅ | ✅ |
-| Backup/Restore/Undo | ✅ | ✅ |
-| Changelog | ✅ | ✅ |
-| Dashboard & Inspiration | ✅ | ✅ |
-| **🗂️ Project View** | — | ✅ |
-| **📅 Today Panel** | — | ✅ |
-| **📊 Statistics Dashboard** | — | ✅ |
-| **⏱️ Task Timer** | — | ✅ |
-| **📝 Enhanced Changelog** | — | ✅ |
-| **🔔 Notifications** | — | ✅ |
-| **📋 Task Kanban** | — | ✅ |
-| **👥 Team Scheduling** | — | ✅ |
-| **🤖 AI Decomposition** | — | ✅ |
-| **🔄 TickTick/Dida365 Sync** | — | ✅ |
-| **🧠 Planning View** | — | ✅ |
-| **👥 People View** | — | ✅ |
-| **📦 Deliverable Management** | — | ✅ |
-| **🤖 AI Task Board** | — | ✅ |
-| **📝 AI Meeting Minutes** | — | ✅ |
-| **🔁 AI Retrospective** | — | ✅ |
-| **🎯 Goals (OKR)** | — | ✅ |
-| **🏠 Home Dashboard** | — | ✅ |
-| **🖼️ Project Icon & Background** | — | ✅ |
-| **📤 Export** | — | ✅ |
+| Capability / quota | Free quota (no licence) | After activation |
+|------|:------:|:------:|
+| Install & updates | Free | Free (future updates included) |
+| Gantt / kanban / calendar and every other view | ✅ | ✅ |
+| Projects | ≤ 3 | Unlimited |
+| Goals (OKR) | ≤ 3 | Unlimited |
+| Key results | ≤ 9 | Unlimited |
+| People | ≤ 3 | Unlimited |
+| Custom agents | ≤ 2 | Unlimited |
+| AI task decomposition | 5 / month | Unlimited |
+| AI job refills | 5 / month | Unlimited |
+| AI jobs, lifetime | 50 runs | Unlimited |
+| AI meeting notes / chat digest | 3 / month | Unlimited |
+| AI review report | 4 / month | Unlimited |
+| TickTick / Feishu / Notion sync | 50 items each / month | Unlimited |
+| Planning view / chained dependencies | 30 trial uses each | Unlimited |
+| Price | Free to install and use | $19.9 USD one-time (see [pricing](https://tasknexus.itwize.top/en/pricing.html)) |
 
 ---
 
-### 💰 Pricing
+### 💰 Pricing and activation
 
-**Pro: one-time purchase** (no subscription, lifetime free upgrades; see [pricing](https://tasknexus.itwize.top/en/pricing.html) for the current price)
+**Install free and use it within the free quota.** A licence costs $19.9 USD one-time (see [pricing](https://tasknexus.itwize.top/en/pricing.html)) and removes every quota; future updates are included.
 
-👉 **Get Pro**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
+Activate: Obsidian → Settings → Task Nexus → Activation → paste your key → “🔓 Activate now”.
 
 ---
 
@@ -543,7 +529,7 @@ Give every project its own storefront — instantly recognizable in the list
 
 #### Option 1: Manual Install (Recommended)
 
-1. Download the latest free release → [Releases](../../releases)
+1. Download the latest release (the Pro installer) → [Releases](../../releases)
 2. Extract the zip file
 3. Copy the three files into your Obsidian vault's plugin directory:
    ```
@@ -553,7 +539,7 @@ Give every project its own storefront — instantly recognizable in the list
    └── styles.css
    ```
 4. Open Obsidian → Settings → Community Plugins
-5. Enable **TaskNexus Free**
+5. Enable **Task Nexus** (the Pro edition, running within the free quota until activated)
 
 #### Option 2: BRAT Plugin
 

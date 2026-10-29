@@ -252,17 +252,18 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 
 激活步骤：Obsidian → 设置 → TaskNexus → 「激活」→ 填入「🔑 激活码」→ 点「🔓 立即激活」。
 
-#### 💳 扫码付款（微信 / 支付宝）
+#### 💳 三种付款方式，任选其一
 
-不想走小红书也可以直接扫码付款：付款后把**付款截图**和你的邮箱 / 微信号发给我们，核对后当天发放激活码。
+<table>
+<tr>
+<td align="center"><b>📕 小红书</b><br>主页 → 置顶笔记 → 个人售卖<br>按年 9.9 / 一次性 68 元<br><a href="https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31">前往下单</a></td>
+<td align="center"><b>微信收款码</b><br><img src="screenshots/pay-wechat-qr.png" width="180" alt="微信收款码"><br>微信「扫一扫」</td>
+<td align="center"><b>支付宝收款码</b><br><img src="screenshots/pay-alipay-qr.png" width="180" alt="支付宝收款码"><br>支付宝「扫一扫」</td>
+</tr>
+</table>
 
-| 微信收款码 | 支付宝收款码 |
-| :---: | :---: |
-| <img src="screenshots/pay-wechat-qr.png" width="200" alt="微信收款码"> | <img src="screenshots/pay-alipay-qr.png" width="200" alt="支付宝收款码"> |
-| 微信「扫一扫」· 按年 9.9 / 一次性 68 元 | 支付宝「扫一扫」· 按年 9.9 / 一次性 68 元 |
-
-- 微信发 **ITzhihui_hj**（备注「TaskNexus 激活」）或邮件 **programerni@qq.com** 领取激活码
-- 扫码与小红书下单**价格一致**，任选其一，不必重复付款
+- 付款后把**付款截图**和你的邮箱 / 微信号发给我们：微信 **ITzhihui_hj**（备注「TaskNexus 激活」）或邮件 **it_wisdom@qq.com**
+- 三个渠道**价格一致**，任选其一，核对后当天发放激活码，不必重复付款
 
 ---
 
@@ -526,16 +527,17 @@ Give every project its own storefront — instantly recognizable in the list
 
 Activate: Obsidian → Settings → Task Nexus → Activation → paste your key → “🔓 Activate now”.
 
-#### 💳 Pay by QR (WeChat Pay / Alipay)
+#### 💳 Three ways to pay — pick one
 
-You can also pay by scanning a QR code. Send the **payment screenshot** together with your email address and we issue the licence key the same day.
+<table>
+<tr>
+<td align="center"><b>📕 Xiaohongshu</b><br>Profile → pinned note → in-app sale<br>$19.9 one-time<br><a href="https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31">Open</a></td>
+<td align="center"><b>WeChat Pay QR</b><br><img src="screenshots/pay-wechat-qr.png" width="180" alt="WeChat Pay QR code"><br>Scan with WeChat</td>
+<td align="center"><b>Alipay QR</b><br><img src="screenshots/pay-alipay-qr.png" width="180" alt="Alipay QR code"><br>Scan with Alipay</td>
+</tr>
+</table>
 
-| WeChat Pay QR | Alipay QR |
-| :---: | :---: |
-| <img src="screenshots/pay-wechat-qr.png" width="200" alt="WeChat Pay QR code"> | <img src="screenshots/pay-alipay-qr.png" width="200" alt="Alipay QR code"> |
-| Scan with WeChat · $19.9 one-time | Scan with Alipay · $19.9 one-time |
-
-- Email the screenshot to **programerni@qq.com** (or WeChat **ITzhihui_hj**) to receive your licence key
+- Send the **payment screenshot** with your email to **it_wisdom@qq.com** (or WeChat **ITzhihui_hj**) and we issue the licence key the same day
 
 ---
 

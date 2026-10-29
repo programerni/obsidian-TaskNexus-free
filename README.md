@@ -26,9 +26,9 @@
 
 ### 📥 一键下载（点击即存）
 
-**[📥 一键开箱案例库 OB-Case-TaskNexusPro.zip（23 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/OB-Case-TaskNexusPro.zip)** ｜ **[📥 Pro 插件 TaskNexusPro-1.0.45.zip（1.4 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.45.zip)**
+**[📥 唯一安装包 TaskNexusPro-1.0.70.zip（1.8 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.70.zip)**
 
-> 🔑 激活方式：下载后打开**激活页面**，输入个人邮箱一键提交激活申请，管理员会自动发送激活码到个人邮箱（详见 [PRO.md 顶部说明与截图](PRO.md)）。
+> 🔑 激活方式：下载并启用插件后，在 设置 → TaskNexus → 「激活」输入个人邮箱提交申请，激活码会自动发到你的邮箱（详见 [PRO.md](PRO.md)）。
 
 ---
 
@@ -143,26 +143,19 @@ Pro 版全部功能随安装包提供，激活码只负责解除额度限制。�
 
 ### 📦 安装方式
 
-#### 方式一：手动安装（推荐）
+#### 唯一安装方式：下载 zip 解压
 
-1. 从 [Releases](../../releases) 下载最新版本
+1. 下载 [TaskNexusPro-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.70.zip)（1.8 MB，仓库内唯一安装包）
 2. 解压 zip 文件
-3. 将三个文件复制到 Obsidian 库的插件目录：
+3. 把三个文件放到 Obsidian 库的插件目录：
    ```
-   你的库/.obsidian/plugins/tasknexus-free/
+   你的库/.obsidian/plugins/tasknexus-pro/
    ├── main.js
    ├── manifest.json
    └── styles.css
    ```
-4. 打开 Obsidian → 设置 → 第三方插件
-5. 启用 **Task Nexus**（Pro 版，未激活时按免费额度使用）
-
-#### 方式二：BRAT 插件
-
-1. 安装 [BRAT](https://github.com/TfTHacker/obsidian42-brat) 插件
-2. 打开 BRAT 设置 → 添加 Beta 插件
-3. 输入：`programerni/obsidian-tasknexus-free`
-4. 启用插件
+4. 打开 Obsidian → 设置 → 第三方插件 → 点「刷新」
+5. 启用 **TaskNexus Pro**（未激活时按免费额度使用，填入激活码后全部额度解除）
 
 ---
 
@@ -353,26 +346,19 @@ You can also pay by scanning a QR code. Send the **payment screenshot** together
 
 ### 📦 Installation
 
-#### Option 1: Manual Install (Recommended)
+#### Single install method: download the zip and unzip
 
-1. Download the latest release from [Releases](../../releases)
-2. Extract the zip file
-3. Copy the three files into your Obsidian vault's plugin directory:
+1. Download [TaskNexusPro-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.70.zip) (1.8 MB — the only package in this repo)
+2. Unzip the file
+3. Put the three files into your vault's plugin directory:
    ```
-   YourVault/.obsidian/plugins/tasknexus-free/
+   YourVault/.obsidian/plugins/tasknexus-pro/
    ├── main.js
    ├── manifest.json
    └── styles.css
    ```
-4. Open Obsidian → Settings → Community Plugins
-5. Enable **Task Nexus** (the Pro edition, running within the free quota until activated)
-
-#### Option 2: BRAT Plugin
-
-1. Install the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin
-2. Open BRAT settings → Add Beta plugin
-3. Enter: `programerni/obsidian-tasknexus-free`
-4. Enable the plugin
+4. Obsidian → Settings → Community plugins → reload
+5. Enable **TaskNexus Pro** (free quota until you paste a licence key)
 
 ---
 

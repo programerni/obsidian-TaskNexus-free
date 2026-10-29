@@ -45,7 +45,7 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 - **进度百分比** 显示在任务条内部（MS Project 风格）
 - **父子依赖连线**（树形结构连接）
 
-![甘特图视图](screenshots/2-甘特图视图2.png)
+![甘特图视图](screenshots/pro/任务视图-甘特图.png)
 
 #### ✏️ 行内编辑
 - **拖拽排期** — 左右移动任务条改变日期
@@ -63,13 +63,13 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 - **跨文件 wiki-link 父任务** — `[[父任务名]]` 建立层级关系
 - **折叠/展开** 工具栏一键操作
 
-![任务详情](screenshots/任务详情页面 20260827202814_905.png)
+![任务详情](screenshots/pro/gantt-task-detail.png)
 
 #### 🚀 一键排期
 - **自动排期** — 移动逾期任务、分散过载、尊重依赖关系
 - **局部排期** — 仅排期选中的任务
 
-![按截止时间排期](screenshots/2-按截止时间看板加进入面板.png)
+![按截止时间排期](screenshots/pro/调度排产.png)
 
 #### 📦 批量操作
 - **多选** — 点击、Shift+点击范围、Ctrl+A 全选
@@ -253,7 +253,7 @@ Task Nexus transforms your Obsidian vault into a visual project management works
 - **Progress percentage** displayed inside each bar (MS Project style)
 - **Parent-child dependency lines** (tree-style connections)
 
-![Gantt Chart View](screenshots/2-甘特图视图2.png)
+![Gantt Chart View](screenshots/pro/任务视图-甘特图.png)
 
 #### ✏️ Inline Editing
 - **Drag to reschedule** — move task bars left/right to change dates
@@ -271,13 +271,13 @@ Task Nexus transforms your Obsidian vault into a visual project management works
 - **Cross-file wiki-link parents** — `[[parent task]]` establishes hierarchy
 - **Fold/expand** all levels from the toolbar
 
-![Task Details](screenshots/任务详情页面 20260827202814_905.png)
+![Task Details](screenshots/pro/gantt-task-detail.png)
 
 #### 🚀 One-Click Reschedule
 - **Auto reschedule** — moves overdue tasks, distributes overloads, respects dependencies
 - **Local reschedule** — only reschedule selected tasks
 
-![Deadline Reschedule](screenshots/2-按截止时间看板加进入面板.png)
+![Deadline Reschedule](screenshots/pro/调度排产.png)
 
 #### 📦 Batch Operations
 - **Multi-select** — click, Shift+click range, Ctrl+A all

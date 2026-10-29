@@ -76,7 +76,7 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 #### ⏱️ 任务计时
 精确掌握每个任务花了多少时间
 
-![任务计时面板](screenshots/任务计时.png)
+![任务计时面板](https://tasknexus.itwize.top/screenshots/timer-panel.png)
 
 - **番茄钟式追踪** — 为每个任务启动专注计时
 - **效率分析** — 了解时间在不同任务类型上的分配
@@ -353,7 +353,7 @@ Data-driven decision-making dashboard
 #### ⏱️ Task Timer
 Precisely track time spent on each task
 
-![Timer Panel](screenshots/任务计时.png)
+![Timer Panel](https://tasknexus.itwize.top/screenshots/timer-panel.png)
 
 - **Pomodoro-style Tracking** — Start focused timer for each task
 - **Efficiency Analysis** — Understand time allocation across task types

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Task Nexus — Obsidian 任务排产插件（Pro）
+# Task Nexus — Obsidian 任务排产系统（Pro）
 
 **[中文](#-中文)** | **[English](#task-nexus--obsidian-gantt--task-scheduling-plugin-pro)**
 
@@ -8,7 +8,29 @@
 
 </div>
 
-> 📖 **[查看完整功能介绍 →](PRO.md)**
+**TaskNexus 是 Obsidian 任务排产系统，不是又一个甘特图插件。**
+
+| 一句话 | 说明 |
+|---|---|
+| **打开 Obsidian，就知道今天干什么** | 主标语（结果导向） |
+| **任务随手写，日程一键排 · 本地 Markdown 零迁移** | 副标语（补信任状：数据在你库里） |
+| **⚡ 一键排产** | 超级词：把散落在多个笔记里的任务，一键排成能直接执行的日程 |
+| **27 个模块** | 甘特图 / 项目视图 / 人员视图 / 今日面板 / OKR / AI 作业 / 统计面板等 |
+| **免费安装 · 免费额度内长期用** | ¥68 买断（终身）或 ¥9.9 年订阅解除全部额度 |
+
+**为什么不写「甘特图插件」**：甘特图只是结果的展示，排产才是每天要做的动作。Obsidian 里能画甘特的插件都能画图，但把「散落任务 → 一键排成日程」做成按钮的，目前只有 TaskNexus。
+
+**60 秒看懂（AIDTA）**
+
+| 段 | 你会看到 |
+|---|---|
+| **A 注意** | 任务散落在多个笔记，打开还是不知道今天该干啥；排一次产要手工挪一遍任务条 |
+| **I 价值钉** | ⚡ 一键排产：按截止日期与依赖自动重排，逾期前移、过载分散、父任务工期自动聚合；支持局部排产、按人排产 |
+| **T 信任** | 任务仍是笔记里的 `- [ ]`：本地 Markdown、断网可用、卸载插件笔记原样还在 |
+| **D 价值定义** | 排产前逐条拖动 ｜ 排产后点一次就好 |
+| **A 行动** | 免费安装 → 免费额度内长期用 → 需要更大规模时填激活码 |
+
+> 📖 **[查看完整功能介绍 →](PRO.md)** ｜ 🌐 **官网**：<https://tasknexus.itwize.top/>（含[免费额度一览](https://tasknexus.itwize.top/#quota)与[获取方式](https://tasknexus.itwize.top/pricing.html)）
 
 ---
 
@@ -220,13 +242,37 @@ MIT 协议 — 详见 [LICENSE](LICENSE)。
 
 <div align="center">
 
-# Task Nexus — Obsidian Gantt & Task Scheduling Plugin (Pro)
+# Task Nexus — Obsidian Task Scheduling System (Pro)
 
 **[中文](#-中文)** | **[English](#task-nexus--obsidian-gantt--task-scheduling-plugin-pro)**
 
 > 🎯 One Pro edition: install free, use it within the free quota, and a licence key removes every quota limit
 
 </div>
+
+**TaskNexus is an Obsidian task scheduling system — not another Gantt chart plugin.**
+
+| One line | What it means |
+|---|---|
+| **Open Obsidian, and know what to do today** | The promise: a schedule you can execute, not another chart to maintain |
+| **Write tasks as you think, auto-schedule them in one click · local Markdown, zero migration** | Your tasks stay plain `- [ ]` Markdown in your own vault |
+| **⚡ One-click scheduling** | Turn tasks scattered across notes into an executable schedule |
+| **27 modules** | Gantt view / project view / people view / today panel / OKR / AI jobs / stats dashboard and more |
+| **Install free · use within the free quota long term** | A $19.9 one-time licence removes every quota limit |
+
+**Why "scheduling system" rather than "Gantt plugin"**: a Gantt chart only displays the result — scheduling is the action you take every day. Gantt plugins in Obsidian can all draw bars; TaskNexus is the one that turns "scattered tasks → a schedule" into a button.
+
+**The flow in 60 seconds (AIDTA)**
+
+| Beat | What you see |
+|---|---|
+| **A Attention** | Tasks spread across notes; opening Obsidian still does not tell you what to do today |
+| **I Value pin** | ⚡ One-click scheduling by due date and dependencies: overdue work moves forward, overload is spread, parent durations roll up — or schedule only a selection, or per person |
+| **T Trust** | Tasks stay `- [ ]` Markdown: local, offline, still there if you remove the plugin |
+| **D Value definition** | Before: drag every bar ｜ After: one click |
+| **A Action** | Install free → stay in the free quota → activate when you outgrow it |
+
+> 📖 **[Full feature walkthrough →](PRO.md)** ｜ 🌐 **Website**：<https://tasknexus.itwize.top/en/>
 
 ---
 

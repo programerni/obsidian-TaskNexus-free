@@ -1,10 +1,10 @@
 <div align="center">
 
-# Task Nexus — Obsidian 任务排产系统（Pro）
+# Task Nexus — Obsidian 任务排产系统
 
-**[中文](#-中文)** | **[English](#task-nexus--obsidian-gantt--task-scheduling-plugin-pro)**
+**[中文](#-中文)** | **[English](#task-nexus--obsidian-task-scheduling-system)**
 
-> 🎯 只有一个 Pro 版：免费安装、免费额度内长期可用，激活码解除全部额度限制
+> 🎯 只有一个版本：免费安装、免费额度内长期可用，激活码解除全部额度限制
 
 </div>
 
@@ -30,7 +30,7 @@
 | **D 价值定义** | 排产前逐条拖动 ｜ 排产后点一次就好 |
 | **A 行动** | 免费安装 → 免费额度内长期用 → 需要更大规模时填激活码 |
 
-> 📖 **[查看完整功能介绍 →](PRO.md)** ｜ 🌐 **官网**：<https://tasknexus.itwize.top/>（含[免费额度一览](https://tasknexus.itwize.top/#quota)与[获取方式](https://tasknexus.itwize.top/pricing.html)）
+> 📖 **[查看完整功能介绍 →](FEATURES.md)** ｜ 🌐 **官网**：<https://tasknexus.itwize.top/>（含[免费额度一览](https://tasknexus.itwize.top/#quota)与[获取方式](https://tasknexus.itwize.top/pricing.html)）
 
 ---
 
@@ -42,15 +42,15 @@
 | **② 免费额度** | 项目 / 目标 / KR / 人员 / 自定义 Agent 有数量上限；AI 与同步类功能按月度额度试用；规划视图、链式依赖有试用次数 |
 | **③ 激活解锁** | 购买激活码后在插件设置中填入，数量、月度与终身额度全部解除，功能不再受限 |
 
-> ⚠️ **不再提供独立的基础版**：之前「免费版 + Pro 版」两个版本的叙述已废弃，安装包装的就是完整 Pro 版，只是未激活时按免费额度使用。
+> ⚠️ **不再提供独立的基础版**：之前的双版本叙述已废弃，安装包装的就是完整版，只是未激活时按免费额度使用。
 
 ---
 
 ### 📥 一键下载（点击即存）
 
-**[📥 唯一安装包 TaskNexusPro-1.0.70.zip（1.8 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.70.zip)**
+**[📥 唯一安装包 TaskNexus-1.0.70.zip（1.8 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip)**
 
-> 🔑 激活方式：下载并启用插件后，在 设置 → TaskNexus → 「激活」输入个人邮箱提交申请，激活码会自动发到你的邮箱（详见 [PRO.md](PRO.md)）。
+> 🔑 激活方式：下载并启用插件后，在 设置 → TaskNexus → 「激活」输入个人邮箱提交申请，激活码会自动发到你的邮箱（详见 [FEATURES.md](FEATURES.md)）。
 
 ---
 
@@ -67,7 +67,7 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 - **进度百分比** 显示在任务条内部（MS Project 风格）
 - **父子依赖连线**（树形结构连接）
 
-![甘特图视图](screenshots/pro/任务视图-甘特图.png)
+![甘特图视图](screenshots/features/任务视图-甘特图.png)
 
 #### ✏️ 行内编辑
 - **拖拽排期** — 左右移动任务条改变日期
@@ -85,13 +85,13 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 - **跨文件 wiki-link 父任务** — `[[父任务名]]` 建立层级关系
 - **折叠/展开** 工具栏一键操作
 
-![任务详情](screenshots/pro/gantt-task-detail.png)
+![任务详情](screenshots/features/gantt-task-detail.png)
 
 #### 🚀 一键排期
 - **自动排期** — 移动逾期任务、分散过载、尊重依赖关系
 - **局部排期** — 仅排期选中的任务
 
-![按截止时间排期](screenshots/pro/调度排产.png)
+![按截止时间排期](screenshots/features/调度排产.png)
 
 #### 📦 批量操作
 - **多选** — 点击、Shift+点击范围、Ctrl+A 全选
@@ -111,7 +111,7 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 
 ### 🆚 免费额度 vs 激活解锁
 
-只有一个 Pro 版，同一条产品线的两种状态：未激活按免费额度使用，激活后全部解除。
+只有一个版本，同一条产品线的两种状态：未激活按免费额度使用，激活后全部解除。
 
 | 能力 / 额度 | 免费额度（未激活） | 激活后 |
 |------|:------:|:------:|
@@ -137,7 +137,7 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 
 ### 🔑 获取激活码与激活
 
-Pro 版全部功能随安装包提供，激活码只负责解除额度限制。购买方式：小红书主页 → 置顶笔记 → 个人售卖直接购买（按年 9.9 或一次性 68 元，具体以小红书实际价格为准）。
+全部功能随安装包提供，激活码只负责解除额度限制。购买方式：小红书主页 → 置顶笔记 → 个人售卖直接购买（按年 9.9 或一次性 68 元，具体以小红书实际价格为准）。
 
 激活步骤：
 
@@ -147,7 +147,7 @@ Pro 版全部功能随安装包提供，激活码只负责解除额度限制。�
 
 - **🌐 官网与激活说明**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
 - **📕 小红书（购买渠道）**: [Task Nexus 小红书主页](https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31)
-- **📖 完整功能介绍**: [PRO.md](PRO.md)
+- **📖 完整功能介绍**: [FEATURES.md](FEATURES.md)
 
 #### 💳 三种付款方式，任选其一
 
@@ -168,7 +168,7 @@ Pro 版全部功能随安装包提供，激活码只负责解除额度限制。�
 
 #### 唯一安装方式：下载 zip 解压
 
-1. 下载 [TaskNexusPro-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.70.zip)（1.8 MB，仓库内唯一安装包）
+1. 下载 [TaskNexus-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip)（1.8 MB，仓库内唯一安装包）
 2. 解压 zip 文件
 3. 把三个文件放到 Obsidian 库的插件目录：
    ```
@@ -178,14 +178,14 @@ Pro 版全部功能随安装包提供，激活码只负责解除额度限制。�
    └── styles.css
    ```
 4. 打开 Obsidian → 设置 → 第三方插件 → 点「刷新」
-5. 启用 **TaskNexus Pro**（未激活时按免费额度使用，填入激活码后全部额度解除）
+5. 启用 **TaskNexus**（未激活时按免费额度使用，填入激活码后全部额度解除）
 
 ---
 
 ### 📋 系统要求
 
 - Obsidian v1.5.7 或更高版本
-- 桌面端或移动端（Pro 版均支持）
+- 桌面端或移动端（桌面端与移动端均支持）
 
 ---
 
@@ -233,7 +233,7 @@ MIT 协议 — 详见 [LICENSE](LICENSE)。
 ---
 
 <p align="center">
-  <b>Task Nexus Pro</b> — Obsidian 可视化任务排产插件<br>
+  <b>Task Nexus</b> — Obsidian 可视化任务排产插件<br>
   Made with ❤️ by <a href="https://github.com/programerni">Simon Ni</a>
 </p>
 
@@ -242,11 +242,11 @@ MIT 协议 — 详见 [LICENSE](LICENSE)。
 
 <div align="center">
 
-# Task Nexus — Obsidian Task Scheduling System (Pro)
+# Task Nexus — Obsidian Task Scheduling System
 
-**[中文](#-中文)** | **[English](#task-nexus--obsidian-gantt--task-scheduling-plugin-pro)**
+**[中文](#-中文)** | **[English](#task-nexus--obsidian-task-scheduling-system)**
 
-> 🎯 One Pro edition: install free, use it within the free quota, and a licence key removes every quota limit
+> 🎯 One edition: install free, use it within the free quota, and a licence key removes every quota limit
 
 </div>
 
@@ -272,7 +272,7 @@ MIT 协议 — 详见 [LICENSE](LICENSE)。
 | **D Value definition** | Before: drag every bar ｜ After: one click |
 | **A Action** | Install free → stay in the free quota → activate when you outgrow it |
 
-> 📖 **[Full feature walkthrough →](PRO.md)** ｜ 🌐 **Website**：<https://tasknexus.itwize.top/en/>
+> 📖 **[Full feature walkthrough →](FEATURES.md)** ｜ 🌐 **Website**：<https://tasknexus.itwize.top/en/>
 
 ---
 
@@ -284,7 +284,7 @@ MIT 协议 — 详见 [LICENSE](LICENSE)。
 | **② Free quota** | Quantity caps for projects / goals / key results / people / custom agents; monthly quotas for AI and sync features; trial runs for the planning view and chained dependencies |
 | **③ Licence unlocks** | Buy a licence key, paste it into the plugin settings, and every quantity, monthly and lifetime quota is removed |
 
-> ⚠️ **There is no separate basic edition any more.** The old “Free + Pro” split is retired: the installer is the full Pro edition and simply runs within the free quota until activated.
+> ⚠️ **There is no separate basic edition any more.** The old two-tier split is retired: the installer is the full edition and simply runs within the free quota until activated.
 
 ---
 
@@ -299,7 +299,7 @@ Task Nexus transforms your Obsidian vault into a visual project management works
 - **Progress percentage** displayed inside each bar (MS Project style)
 - **Parent-child dependency lines** (tree-style connections)
 
-![Gantt Chart View](screenshots/pro/任务视图-甘特图.png)
+![Gantt Chart View](screenshots/features/任务视图-甘特图.png)
 
 #### ✏️ Inline Editing
 - **Drag to reschedule** — move task bars left/right to change dates
@@ -317,13 +317,13 @@ Task Nexus transforms your Obsidian vault into a visual project management works
 - **Cross-file wiki-link parents** — `[[parent task]]` establishes hierarchy
 - **Fold/expand** all levels from the toolbar
 
-![Task Details](screenshots/pro/gantt-task-detail.png)
+![Task Details](screenshots/features/gantt-task-detail.png)
 
 #### 🚀 One-Click Reschedule
 - **Auto reschedule** — moves overdue tasks, distributes overloads, respects dependencies
 - **Local reschedule** — only reschedule selected tasks
 
-![Deadline Reschedule](screenshots/pro/调度排产.png)
+![Deadline Reschedule](screenshots/features/调度排产.png)
 
 #### 📦 Batch Operations
 - **Multi-select** — click, Shift+click range, Ctrl+A all
@@ -343,7 +343,7 @@ Task Nexus transforms your Obsidian vault into a visual project management works
 
 ### 🆚 Free quota vs licence
 
-One Pro edition, two states of the same product line: the free quota applies before activation, and a licence removes every limit.
+One edition, two states of the same product line: the free quota applies before activation, and a licence removes every limit.
 
 | Capability / quota | Free quota (no licence) | After activation |
 |------|:------:|:------:|
@@ -369,14 +369,14 @@ One Pro edition, two states of the same product line: the free quota applies bef
 
 ### 🔑 Licence and activation
 
-Every Pro module ships in the same installer; the licence key only removes quotas. Buy a licence via the [pricing page](https://tasknexus.itwize.top/en/pricing.html) ($19.9 USD one-time) and you receive the key by email.
+Every module ships in the same installer; the licence key only removes quotas. Buy a licence via the [pricing page](https://tasknexus.itwize.top/en/pricing.html) ($19.9 USD one-time) and you receive the key by email.
 
 1. Open Obsidian → Settings → Task Nexus → Activation
 2. Paste the key into the licence field
 3. Click “🔓 Activate now” — every quota is lifted immediately
 
 - **🌐 Website**: [https://tasknexus.itwize.top/](https://tasknexus.itwize.top/)
-- **📖 Full feature guide**: [PRO.md](PRO.md)
+- **📖 Full feature guide**: [FEATURES.md](FEATURES.md)
 
 #### 💳 Three ways to pay — pick one
 
@@ -396,7 +396,7 @@ Every Pro module ships in the same installer; the licence key only removes quota
 
 #### Single install method: download the zip and unzip
 
-1. Download [TaskNexusPro-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.70.zip) (1.8 MB — the only package in this repo)
+1. Download [TaskNexus-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip) (1.8 MB — the only package in this repo)
 2. Unzip the file
 3. Put the three files into your vault's plugin directory:
    ```
@@ -406,14 +406,14 @@ Every Pro module ships in the same installer; the licence key only removes quota
    └── styles.css
    ```
 4. Obsidian → Settings → Community plugins → reload
-5. Enable **TaskNexus Pro** (free quota until you paste a licence key)
+5. Enable **TaskNexus** (free quota until you paste a licence key)
 
 ---
 
 ### 📋 Requirements
 
 - Obsidian v1.5.7 or higher
-- Desktop or Mobile (the Pro edition supports both)
+- Desktop or Mobile (desktop and mobile are both supported)
 
 ---
 
@@ -461,6 +461,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ---
 
 <p align="center">
-  <b>Task Nexus Pro</b> — Visual task scheduling for Obsidian<br>
+  <b>Task Nexus</b> — Visual task scheduling for Obsidian<br>
   Made with ❤️ by <a href="https://github.com/programerni">Simon Ni</a>
 </p>

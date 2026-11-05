@@ -2,7 +2,7 @@
 
 ### 📥 一键下载（点击即存）
 
-**[📥 唯一安装包 TaskNexusPro-1.0.70.zip（1.8 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.70.zip)**
+**[📥 唯一安装包 TaskNexus-1.0.70.zip（1.8 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip)**
 
 **🔑 激活方式**：安装并启用插件后，在 设置 → TaskNexus → 「激活」输入个人邮箱提交申请，激活码会自动发到你的邮箱。
 
@@ -12,9 +12,9 @@
 
 <div align="center">
 
-# Task Nexus Pro
+# Task Nexus
 
-**[中文](#-中文)** | **[English](#-task-nexus-pro-english)**
+**[中文](#-中文)** | **[English](#-task-nexus-english)**
 
 > 🚀 在 Obsidian 中实现企业级项目排产与团队协作
 
@@ -24,7 +24,7 @@
 
 ## 🇨🇳 中文
 
-Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免费安装后按**免费额度**长期使用；购买激活码填入插件设置后，数量、月度与终身额度全部解除。
+Task Nexus 现在只有一个版本：全部功能随安装包提供，免费安装后按**免费额度**长期使用；购买激活码填入插件设置后，数量、月度与终身额度全部解除。
 
 - **免费额度**：项目 ≤ 3 ／ 目标（OKR） ≤ 3 ／ KR ≤ 9 ／ 人员 ≤ 3 ／ 自定义 Agent ≤ 2
 - **月度额度**（每月 1 日重置）：AI 任务拆解 5 ／ AI 作业续杯 5 ／ AI 会议纪要 3 ／ AI 复盘报表 4 ／ 滴答·飞书·Notion 同步各 50
@@ -33,14 +33,14 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 
 > 额度为程序内置默认值，以插件内「激活 / 额度中心」与官网配置为准。额度用尽仅对应功能暂停，历史数据不受影响。
 
-下方为 Pro 版全部核心功能的说明。
+下方为全部核心功能的说明。
 
-### ✨ Pro 版核心功能
+### ✨ 核心功能
 
 #### 🗂️ 项目视图
 从单任务维度升级到项目维度，掌握全局进度
 
-![项目视图](screenshots/pro/项目视图.png)
+![项目视图](screenshots/features/项目视图.png)
 
 - **多项目概览** — 一个界面管理所有项目，查看各项目进度与状态
 - **项目统计** — 每个项目的完成率、任务数、延迟率一目了然
@@ -67,7 +67,7 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 #### 📊 统计面板
 用数据驱动决策的全局看板
 
-![统计面板](screenshots/pro/统计面板.png)
+![统计面板](screenshots/features/统计面板.png)
 
 - **完成率趋势** — 可视化每周/每月完成率变化
 - **延迟分析** — 识别哪些任务经常延期，找到瓶颈
@@ -103,7 +103,7 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 #### 📋 任务看板
 拖拽式看板，任务状态一目了然
 
-![任务看板](screenshots/pro/任务看板.png)
+![任务看板](screenshots/features/任务看板.png)
 
 - **状态分列** — 待办、进行中、已完成分列展示
 - **拖拽流转** — 直接拖拽任务卡片切换状态
@@ -112,7 +112,7 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 #### 👥 调度排产
 从个人任务管理升级为团队协作排产
 
-![调度排产](screenshots/pro/调度排产.png)
+![调度排产](screenshots/features/调度排产.png)
 
 - **人员排产** — 按 `role/指派/name` 标签解析团队成员
 - **产能管理** — 为每个成员设置不同的工作容量
@@ -121,7 +121,7 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 #### 🤖 AI 智能拆解
 让 AI 帮你分解复杂任务
 
-![AI 智能拆解](screenshots/pro/AI智能拆解.png)
+![AI 智能拆解](screenshots/features/AI智能拆解.png)
 
 - **需求拆解** — 输入复杂需求，AI 自动拆分为可执行子任务
 - **会议导入** — 从会议纪要中提取待办事项
@@ -130,7 +130,7 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 #### 🔄 TickTick/Dida365 同步
 打通外部任务管理工具
 
-![TickTick/Dida365 同步](screenshots/pro/滴答同步.png)
+![TickTick/Dida365 同步](screenshots/features/滴答同步.png)
 
 - **双向同步** — Obsidian 与滴答清单数据实时同步
 - **多端协作** — 手机端记录的任务自动同步到 Obsidian
@@ -139,7 +139,7 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 #### 🧠 规划视图
 多维度任务规划与脑图展示
 
-![规划视图](screenshots/pro/规划视图.png)
+![规划视图](screenshots/features/规划视图.png)
 
 - **脑图模式** — 任务层级以思维导图形式展示
 - **树形规划** — 从上到下梳理任务依赖与结构
@@ -212,13 +212,13 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 
 | **🏠 工作台首页** | **🧭 任务视图 · 甘特图** |
 | :-: | :-: |
-| ![工作台首页](screenshots/pro/首页.png) | ![任务视图甘特图](screenshots/pro/任务视图-甘特图.png) |
+| ![工作台首页](screenshots/features/首页.png) | ![任务视图甘特图](screenshots/features/任务视图-甘特图.png) |
 | **📋 项目视图 · 看板** | **👥 人员视图 · 甘特图** |
-| ![项目视图看板](screenshots/pro/项目视图-看板.png) | ![人员视图甘特图](screenshots/pro/人员视图-甘特图.png) |
+| ![项目视图看板](screenshots/features/项目视图-看板.png) | ![人员视图甘特图](screenshots/features/人员视图-甘特图.png) |
 | **💡 想法收集** | **📝 会议纪要** |
-| ![想法收集](screenshots/pro/想法收集.png) | ![会议纪要](screenshots/pro/会议纪要.png) |
+| ![想法收集](screenshots/features/想法收集.png) | ![会议纪要](screenshots/features/会议纪要.png) |
 | **🔁 复盘总结** | **⏱️ 进展与工时** |
-| ![复盘总结](screenshots/pro/复盘总结.png) | ![进展与工时](screenshots/pro/进展-工时.png) |
+| ![复盘总结](screenshots/features/复盘总结.png) | ![进展与工时](screenshots/features/进展-工时.png) |
 
 ---
 
@@ -271,7 +271,7 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 
 #### 唯一安装方式：下载 zip 解压
 
-1. 下载 [TaskNexusPro-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.70.zip)（1.8 MB，仓库内唯一安装包）
+1. 下载 [TaskNexus-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip)（1.8 MB，仓库内唯一安装包）
 2. 解压 zip 文件
 3. 把三个文件放到 Obsidian 库的插件目录：
    ```
@@ -280,7 +280,7 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
    ├── manifest.json
    └── styles.css
    ```
-4. 打开 Obsidian → 设置 → 第三方插件 → 点「刷新」→ 启用 **TaskNexus Pro**
+4. 打开 Obsidian → 设置 → 第三方插件 → 点「刷新」→ 启用 **TaskNexus**
 5. 未激活时按免费额度使用；填入激活码后全部额度解除
 
 ---
@@ -301,9 +301,9 @@ Task Nexus 现在只有一个 **Pro 版**：全部功能随安装包提供，免
 
 ---
 
-## 🇺🇸 Task Nexus Pro (English)
+## 🇺🇸 Task Nexus (English)
 
-Task Nexus now ships as a single **Pro edition**: every module is included in the installer, and it runs within the **free quota** for as long as you like. A licence key pasted into the plugin settings removes every quantity, monthly and lifetime quota.
+Task Nexus now ships as a **single edition**: every module is included in the installer, and it runs within the **free quota** for as long as you like. A licence key pasted into the plugin settings removes every quantity, monthly and lifetime quota.
 
 - **Free quota**: projects ≤ 3 · goals (OKR) ≤ 3 · key results ≤ 9 · people ≤ 3 · custom agents ≤ 2
 - **Monthly quotas** (reset on the 1st): AI task decomposition 5 · AI job refills 5 · AI meeting notes 3 · AI review report 4 · TickTick / Feishu / Notion sync 50 items each
@@ -312,12 +312,12 @@ Task Nexus now ships as a single **Pro edition**: every module is included in th
 
 > The numbers above are the built-in defaults; the plugin's activation / quota centre and the website config are the source of truth. When a quota runs out only that feature pauses — your existing data is untouched.
 
-### ✨ Pro Features
+### ✨ Features
 
 #### 🗂️ Project View
 Upgrade from individual tasks to project-level management
 
-![Project View](screenshots/pro/项目视图.png)
+![Project View](screenshots/features/项目视图.png)
 
 - **Multi-project Overview** — Manage all projects in one interface
 - **Project Statistics** — Completion rate, task count, delay rate at a glance
@@ -344,7 +344,7 @@ Focus on what matters most today
 #### 📊 Statistics Dashboard
 Data-driven decision-making dashboard
 
-![Statistics Dashboard](screenshots/pro/统计面板.png)
+![Statistics Dashboard](screenshots/features/统计面板.png)
 
 - **Completion Trends** — Visualize weekly/monthly completion rate changes
 - **Delay Analysis** — Identify frequently delayed tasks and bottlenecks
@@ -380,7 +380,7 @@ Never miss important events
 #### 📋 Task Kanban
 Drag-and-drop kanban for visual task management
 
-![Task Kanban](screenshots/pro/任务看板.png)
+![Task Kanban](screenshots/features/任务看板.png)
 
 - **Status Columns** — To-do, In Progress, Done displayed in columns
 - **Drag-and-Drop** — Move task cards between status columns
@@ -389,7 +389,7 @@ Drag-and-drop kanban for visual task management
 #### 👥 Team Scheduling
 From personal task management to team collaboration
 
-![Team Scheduling](screenshots/pro/调度排产.png)
+![Team Scheduling](screenshots/features/调度排产.png)
 
 - **Assignee Parsing** — Parse `role/assign/name` tags for team view
 - **Individual Capacity** — Set different work capacity per member
@@ -398,7 +398,7 @@ From personal task management to team collaboration
 #### 🤖 AI Task Decomposition
 Let AI break down complex tasks
 
-![AI Task Decomposition](screenshots/pro/AI智能拆解.png)
+![AI Task Decomposition](screenshots/features/AI智能拆解.png)
 
 - **Requirement Decomposition** — Input complex requirements, AI splits into subtasks
 - **Meeting Import** — Extract action items from meeting notes
@@ -407,7 +407,7 @@ Let AI break down complex tasks
 #### 🔄 TickTick/Dida365 Sync
 Bridge external task management tools
 
-![TickTick/Dida365 Sync](screenshots/pro/滴答同步.png)
+![TickTick/Dida365 Sync](screenshots/features/滴答同步.png)
 
 - **Bidirectional Sync** — Real-time sync between Obsidian and TickTick/Dida365
 - **Multi-device** — Tasks recorded on mobile auto-sync to Obsidian
@@ -416,7 +416,7 @@ Bridge external task management tools
 #### 🧠 Planning View
 Multi-dimensional task planning with mind-map display
 
-![Planning View](screenshots/pro/规划视图.png)
+![Planning View](screenshots/features/规划视图.png)
 
 - **Mind-map Mode** — Task hierarchy displayed as mind map
 - **Tree Planning** — Top-down dependency and structure analysis
@@ -489,13 +489,13 @@ Give every project its own storefront — instantly recognizable in the list
 
 | **🏠 Workbench Home** | **🧭 Task View · Gantt** |
 | :-: | :-: |
-| ![Workbench Home](screenshots/pro/首页.png) | ![Task View Gantt](screenshots/pro/任务视图-甘特图.png) |
+| ![Workbench Home](screenshots/features/首页.png) | ![Task View Gantt](screenshots/features/任务视图-甘特图.png) |
 | **📋 Project View · Kanban** | **👥 People View · Gantt** |
-| ![Project Kanban](screenshots/pro/项目视图-看板.png) | ![People Gantt](screenshots/pro/人员视图-甘特图.png) |
+| ![Project Kanban](screenshots/features/项目视图-看板.png) | ![People Gantt](screenshots/features/人员视图-甘特图.png) |
 | **💡 Ideas Inbox** | **📝 Meeting Notes** |
-| ![Ideas](screenshots/pro/想法收集.png) | ![Meeting Notes](screenshots/pro/会议纪要.png) |
+| ![Ideas](screenshots/features/想法收集.png) | ![Meeting Notes](screenshots/features/会议纪要.png) |
 | **🔁 Retrospective** | **⏱️ Progress & Hours** |
-| ![Retrospective](screenshots/pro/复盘总结.png) | ![Progress Hours](screenshots/pro/进展-工时.png) |
+| ![Retrospective](screenshots/features/复盘总结.png) | ![Progress Hours](screenshots/features/进展-工时.png) |
 
 ---
 
@@ -545,7 +545,7 @@ Activate: Obsidian → Settings → Task Nexus → Activation → paste your key
 
 #### Single install method: download the zip and unzip
 
-1. Download [TaskNexusPro-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexusPro-1.0.70.zip) (1.8 MB — the only package in this repo)
+1. Download [TaskNexus-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip) (1.8 MB — the only package in this repo)
 2. Unzip the file
 3. Put the three files into your vault's plugin directory:
    ```
@@ -554,7 +554,7 @@ Activate: Obsidian → Settings → Task Nexus → Activation → paste your key
    ├── manifest.json
    └── styles.css
    ```
-4. Obsidian → Settings → Community plugins → reload → enable **TaskNexus Pro**
+4. Obsidian → Settings → Community plugins → reload → enable **TaskNexus**
 5. Runs within the free quota until you paste a licence key
 
 ---
@@ -575,6 +575,6 @@ Activate: Obsidian → Settings → Task Nexus → Activation → paste your key
 ---
 
 <p align="center">
-  <b>TaskNexus Pro</b> — Enterprise project scheduling for Obsidian<br>
+  <b>TaskNexus</b> — Enterprise project scheduling for Obsidian<br>
   Made with ❤️ by <a href="https://github.com/programerni">Simon Ni</a>
 </p>

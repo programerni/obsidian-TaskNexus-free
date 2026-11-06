@@ -1,3 +1,10 @@
+# TaskNexus v1.1.01
+日期：2026-11-06
+
+- 新增：📱 手机版 AI 作业——手机打开 https://tasknexus.itwize.top/mobile/ 查看对话、回复消息、新建 AI 对话（电脑端 设置 → 集成 → 手机端同步 生成配对码绑定）
+- 安装包更新：downloads/TaskNexus-1.1.01.zip（2.0 MB，唯一安装包）
+- 文档：README / FEATURES / 官网 首页 + 基础版 + Pro 版说明 同步补手机版 AI 作业图文教程
+
 # TaskNexus v1.2.0
 日期：2026-09-15
 

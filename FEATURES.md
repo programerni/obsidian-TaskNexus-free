@@ -2,7 +2,7 @@
 
 ### 📥 一键下载（点击即存）
 
-**[📥 唯一安装包 TaskNexus-1.0.70.zip（1.8 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip)**
+**[📥 唯一安装包 TaskNexus-1.1.01.zip（2.0 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.1.01.zip)**
 
 **🔑 激活方式**：安装并启用插件后，在 设置 → TaskNexus → 「激活」输入个人邮箱提交申请，激活码会自动发到你的邮箱。
 
@@ -271,7 +271,7 @@ Task Nexus 现在只有一个版本：全部功能随安装包提供，免费安
 
 #### 唯一安装方式：下载 zip 解压
 
-1. 下载 [TaskNexus-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip)（1.8 MB，仓库内唯一安装包）
+1. 下载 [TaskNexus-1.1.01.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.1.01.zip)（2.0 MB，仓库内唯一安装包）
 2. 解压 zip 文件
 3. 把三个文件放到 Obsidian 库的插件目录：
    ```
@@ -545,7 +545,7 @@ Activate: Obsidian → Settings → Task Nexus → Activation → paste your key
 
 #### Single install method: download the zip and unzip
 
-1. Download [TaskNexus-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip) (1.8 MB — the only package in this repo)
+1. Download [TaskNexus-1.1.01.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.1.01.zip) (2.0 MB — the only package in this repo)
 2. Unzip the file
 3. Put the three files into your vault's plugin directory:
    ```

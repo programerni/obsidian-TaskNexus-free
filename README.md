@@ -48,7 +48,7 @@
 
 ### 📥 一键下载（点击即存）
 
-**[📥 唯一安装包 TaskNexus-1.0.70.zip（1.8 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip)**
+**[📥 唯一安装包 TaskNexus-1.1.01.zip（2.0 MB）](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.1.01.zip)**
 
 > 🔑 激活方式：下载并启用插件后，在 设置 → TaskNexus → 「激活」输入个人邮箱提交申请，激活码会自动发到你的邮箱（详见 [FEATURES.md](FEATURES.md)）。
 
@@ -106,6 +106,33 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 #### ⌨️ 快捷键
 - `Ctrl+Shift+T` — 快速添加任务
 - 完整键盘导航支持
+
+---
+
+### 📱 手机版 AI 作业
+
+电脑端跑 AI 作业，**手机打开网页就能随时查看对话、回复消息**——出门、通勤时也能给 AI 派活、回答选择题、跟进执行进展。**执行永远在电脑端**，手机只负责看和回话；电脑不在线时消息会排队发送，不会丢失。
+
+**手机端地址：`https://tasknexus.itwize.top/mobile/`**（电脑端 设置 → 集成 → 手机端同步 里也可一键复制）
+
+四步启用：
+
+1. **电脑端开启**：打开 **设置 → 集成 → 手机端同步** → 打开「手机端对话视图」开关 → 点「**生成配对码**」（6 位数字，5 分钟内有效、仅一次）
+2. **手机端登录**：手机浏览器访问上面的地址，用**激活管理里注册的邮箱**登录——**首次登录用激活码或管理员给的初始密码**，之后可在「我的 → 修改密码」改（独立登录体系，与官网管理端账号不通用）
+3. **配对绑定**：手机端进「**配对电脑**」，输入 6 位配对码绑定这台电脑（同一账号可绑定多台已激活电脑，数据按电脑隔离）
+4. **随时对话**：查看对话列表、进入详情回复消息、回答选择题，也可**新建 AI 对话**（可选 Agent / 模型、关联任务、套用模板）
+
+![手机版 AI 作业 · 对话列表](screenshots/features/手机版AI-对话列表.png)
+
+![手机版 AI 作业 · 对话详情](screenshots/features/手机版AI-对话详情.png)
+
+![手机版 AI 作业 · 新建对话](screenshots/features/手机版AI-新建对话.png)
+
+![手机版 AI 作业 · 上下文信息](screenshots/features/手机版AI-上下文信息.png)
+
+- 手机端只同步**对话内容 + 执行状态**：图片、附件、提示词、原始日志不同步（手机端只显示数量占位）
+- 配对码 5 分钟内有效、一次性使用，过期在电脑端重新生成
+- 手机端看不到历史对话时，在电脑端点「全量推送」即可重新同步（不修改本地数据）
 
 ---
 
@@ -168,7 +195,7 @@ TaskNexus 将你的 Obsidian 知识库转变为可视化项目管理空间。在
 
 #### 唯一安装方式：下载 zip 解压
 
-1. 下载 [TaskNexus-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip)（1.8 MB，仓库内唯一安装包）
+1. 下载 [TaskNexus-1.1.01.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.1.01.zip)（2.0 MB，仓库内唯一安装包）
 2. 解压 zip 文件
 3. 把三个文件放到 Obsidian 库的插件目录：
    ```
@@ -341,6 +368,33 @@ Task Nexus transforms your Obsidian vault into a visual project management works
 
 ---
 
+### 📱 Mobile AI Jobs
+
+Run AI jobs on your computer, then **open a web page on your phone to follow conversations and reply** — dispatch work, answer choice cards and track progress while you're away from the desk. **Execution always runs on your computer**; the phone only reads and replies. If the computer is offline, messages are queued and never lost.
+
+**Mobile URL: `https://tasknexus.itwize.top/mobile/`** (also one-click copy in Settings → Integrations → Mobile sync on the computer)
+
+Four steps to start:
+
+1. **Enable on the computer**: Settings → Integrations → Mobile sync → turn on **Mobile conversation view** → click **Generate pairing code** (6 digits, valid for 5 minutes, single use)
+2. **Log in on the phone**: open the URL above in your phone browser and sign in with **the e-mail registered in Activation management** — the **first login uses your activation code or the initial password from the admin**, and you can change it later under Me → Change password (independent sign-in, not shared with the website admin console)
+3. **Pair the computer**: enter the 6-digit pairing code under **Pair computer** on the phone (one account can pair multiple activated computers; data is isolated per computer)
+4. **Chat anywhere**: browse the conversation list, open a thread to reply, answer choice cards, or **start a new AI conversation** (choose Agent / model, link tasks, apply templates)
+
+![Mobile AI jobs — conversation list](screenshots/features/手机版AI-对话列表.png)
+
+![Mobile AI jobs — conversation detail](screenshots/features/手机版AI-对话详情.png)
+
+![Mobile AI jobs — new conversation](screenshots/features/手机版AI-新建对话.png)
+
+![Mobile AI jobs — context info](screenshots/features/手机版AI-上下文信息.png)
+
+- Only **conversation content + execution status** are synced to the phone: images, attachments, prompts and raw logs are not synced (shown as count placeholders)
+- Pairing codes are valid for 5 minutes and single use — regenerate on the computer if expired
+- If the phone shows no history, click **Full push** on the computer's Mobile sync settings to re-sync (no local data is modified)
+
+---
+
 ### 🆚 Free quota vs licence
 
 One edition, two states of the same product line: the free quota applies before activation, and a licence removes every limit.
@@ -396,7 +450,7 @@ Every module ships in the same installer; the licence key only removes quotas. B
 
 #### Single install method: download the zip and unzip
 
-1. Download [TaskNexus-1.0.70.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.0.70.zip) (1.8 MB — the only package in this repo)
+1. Download [TaskNexus-1.1.01.zip](https://github.com/programerni/obsidian-TaskNexus-free/raw/main/downloads/TaskNexus-1.1.01.zip) (2.0 MB — the only package in this repo)
 2. Unzip the file
 3. Put the three files into your vault's plugin directory:
    ```

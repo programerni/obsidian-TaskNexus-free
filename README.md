@@ -258,7 +258,7 @@ MIT 协议 — 详见 [LICENSE](LICENSE)。
 | **Write tasks as you think, auto-schedule them in one click · local Markdown, zero migration** | Your tasks stay plain `- [ ]` Markdown in your own vault |
 | **⚡ One-click scheduling** | Turn tasks scattered across notes into an executable schedule |
 | **27 modules** | Gantt view / project view / people view / today panel / OKR / AI jobs / stats dashboard and more |
-| **Install free · use within the free quota long term** | A $19.9 one-time licence removes every quota limit |
+| **Install free · use within the free quota long term** | A licence ($19.9 one-time or $2.9 per year) removes every quota limit |
 
 **Why "scheduling system" rather than "Gantt plugin"**: a Gantt chart only displays the result — scheduling is the action you take every day. Gantt plugins in Obsidian can all draw bars; TaskNexus is the one that turns "scattered tasks → a schedule" into a button.
 
@@ -361,7 +361,7 @@ One edition, two states of the same product line: the free quota applies before 
 | AI review report | 4 / month | Unlimited |
 | TickTick / Feishu / Notion sync | 50 items each / month | Unlimited |
 | Planning view / chained dependencies | 30 trial uses each | Unlimited |
-| Price | Free to install and use | $19.9 USD one-time (see [pricing](https://tasknexus.itwize.top/en/pricing.html)) |
+| Price | Free to install and use | $19.9 USD one-time or $2.9 USD per year (see [pricing](https://tasknexus.itwize.top/en/pricing.html)) |
 
 > These are the built-in defaults and may change between releases; the plugin's activation / quota centre and the website config are the source of truth. When a quota runs out only that feature pauses — your existing data is untouched.
 
@@ -369,7 +369,7 @@ One edition, two states of the same product line: the free quota applies before 
 
 ### 🔑 Licence and activation
 
-Every module ships in the same installer; the licence key only removes quotas. Buy a licence via the [pricing page](https://tasknexus.itwize.top/en/pricing.html) ($19.9 USD one-time) and you receive the key by email.
+Every module ships in the same installer; the licence key only removes quotas. Buy a licence via the [pricing page](https://tasknexus.itwize.top/en/pricing.html) ($19.9 USD one-time or $2.9 USD per year) and you receive the key by email.
 
 1. Open Obsidian → Settings → Task Nexus → Activation
 2. Paste the key into the licence field
@@ -382,7 +382,7 @@ Every module ships in the same installer; the licence key only removes quotas. B
 
 <table>
 <tr>
-<td align="center"><b>📕 Xiaohongshu</b><br>Profile → pinned note → in-app sale<br>$19.9 one-time<br><a href="https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31">Open</a></td>
+<td align="center"><b>📕 Xiaohongshu</b><br>Profile → pinned note → in-app sale<br>$19.9 one-time / $2.9 per year<br><a href="https://www.xiaohongshu.com/user/profile/55878c26c2bdeb61d6dcbb31">Open</a></td>
 <td align="center"><b>WeChat Pay QR</b><br><img src="screenshots/pay-wechat-qr.png" width="180" alt="WeChat Pay QR code"><br>Scan with WeChat</td>
 <td align="center"><b>Alipay QR</b><br><img src="screenshots/pay-alipay-qr.png?v=2" width="180" alt="Alipay QR code"><br>Scan with Alipay</td>
 </tr>
